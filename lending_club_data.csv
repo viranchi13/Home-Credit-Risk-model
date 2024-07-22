@@ -1,0 +1,1001 @@
+loan_amnt,term,int_rate,installment,grade,emp_length,home_ownership,annual_inc,loan_status,purpose,dti,delinq_2yrs,fico_range_low,fico_range_high,inq_last_6mths,revol_bal,revol_util,total_acc,longest_credit_length
+5510,60 months,14.94,250.13,C,8 years,RENT,154424.17,Charged Off,small_business,7.8,3,796,752,2,40498,12.21,39,12
+21037,36 months,17.15,753.92,C,< 1 year,OWN,152260.65,Default,major_purchase,6.14,8,716,668,6,22086,86.17,18,6
+28187,36 months,14.65,854.79,G,3 years,OWN,72990.17,Default,home_improvement,22.97,7,628,794,1,25680,35.82,26,49
+12790,60 months,18.08,459.51,A,9 years,OWN,33931.9,Fully Paid,credit_card,5.17,4,675,706,4,46118,43.75,25,8
+6395,36 months,18.17,732.66,E,2 years,MORTGAGE,45434.02,Fully Paid,major_purchase,8.64,8,756,626,9,5616,88.72,21,6
+18183,36 months,9.1,250.88,B,8 years,OTHER,180425.12,Fully Paid,credit_card,1.81,3,691,696,8,24202,93.37,15,5
+9803,36 months,11.56,525.86,F,2 years,MORTGAGE,142882.25,Default,home_improvement,18.49,4,633,761,9,49500,1.79,38,17
+18029,36 months,12.94,642.89,D,1 year,MORTGAGE,76761.86,Default,major_purchase,11.66,7,668,673,6,5741,73.76,41,31
+28489,60 months,19.49,567.1,D,4 years,RENT,83541.11,Charged Off,home_improvement,24.63,8,737,622,5,43947,18.41,17,1
+11466,60 months,8.12,747.53,D,6 years,RENT,172046.32,Default,small_business,21.54,5,834,812,4,31761,54.6,10,38
+19879,36 months,12.59,669.05,C,4 years,RENT,159918.48,Fully Paid,credit_card,18.21,0,747,765,6,49217,76.8,34,4
+31386,36 months,23.14,434.59,B,5 years,MORTGAGE,97046.91,Fully Paid,major_purchase,28.68,0,839,827,9,29457,83.74,23,15
+16500,36 months,14.26,520.47,E,1 year,MORTGAGE,138522.64,Default,major_purchase,9.68,9,665,688,0,29319,52.61,45,40
+5945,60 months,5.25,462.84,B,< 1 year,MORTGAGE,95595.93,Default,credit_card,0.24,9,707,635,7,32012,28.53,7,24
+23770,60 months,18.16,367.9,F,4 years,RENT,35521.01,Default,home_improvement,11.6,8,770,767,0,22483,54.89,5,40
+2105,60 months,10.18,652.72,D,< 1 year,RENT,123269.16,Fully Paid,credit_card,28.92,6,747,623,5,9205,22.83,18,5
+39236,36 months,21.69,183.69,A,< 1 year,OTHER,74360.57,Fully Paid,major_purchase,15.54,9,831,675,8,23602,92.65,43,42
+5459,60 months,20.49,766.28,A,7 years,OTHER,43624.44,Charged Off,major_purchase,1.63,9,755,642,6,49524,47.79,17,38
+7347,60 months,22.09,843.33,A,7 years,OTHER,41243.74,Charged Off,home_improvement,25.24,4,821,825,7,7832,86.02,40,37
+27895,36 months,8.33,588.0,C,4 years,OTHER,65266.94,Charged Off,small_business,25.09,6,664,730,0,16761,3.48,23,5
+38134,60 months,22.97,221.8,A,7 years,OTHER,36197.61,Default,small_business,16.58,4,710,838,5,2742,82.52,33,49
+14478,36 months,16.87,600.7,A,7 years,OTHER,181178.53,Default,major_purchase,2.65,5,779,731,4,47279,54.62,18,11
+15046,36 months,6.38,310.28,C,10+ years,OWN,195901.54,Fully Paid,major_purchase,5.31,4,832,771,3,47610,52.07,24,44
+26788,60 months,16.22,500.86,D,9 years,RENT,142581.52,Charged Off,credit_card,23.21,8,733,709,6,16477,6.91,26,8
+33156,36 months,19.73,687.88,G,9 years,RENT,186478.32,Fully Paid,credit_card,1.02,2,739,685,1,18428,91.16,33,49
+3620,36 months,7.72,414.23,F,7 years,OTHER,74091.03,Fully Paid,credit_card,25.24,8,610,758,9,12934,4.16,47,33
+20526,60 months,7.55,776.2,G,8 years,MORTGAGE,28147.04,Charged Off,credit_card,10.94,1,744,605,5,35942,62.64,36,22
+31972,60 months,16.75,217.08,C,8 years,OWN,167176.62,Charged Off,small_business,14.74,2,749,788,3,34691,58.19,10,44
+1840,36 months,18.69,611.64,A,9 years,OWN,57271.78,Default,debt_consolidation,20.43,1,816,705,6,324,40.04,8,49
+13296,60 months,22.94,205.54,E,< 1 year,OWN,134706.77,Default,home_improvement,7.81,5,669,705,2,41758,22.88,46,1
+7960,36 months,9.55,443.83,A,7 years,OTHER,145792.17,Fully Paid,major_purchase,2.54,7,816,649,3,38914,40.02,14,39
+26821,36 months,18.59,891.69,F,5 years,OWN,58520.36,Fully Paid,credit_card,22.66,7,604,737,7,27627,20.27,34,45
+5665,60 months,14.11,141.93,C,< 1 year,OWN,31609.44,Charged Off,home_improvement,9.39,5,698,755,5,13355,18.54,17,4
+36035,60 months,16.68,757.58,E,4 years,OTHER,101663.22,Default,credit_card,22.78,3,621,628,2,22713,74.94,22,48
+18806,60 months,15.47,493.18,B,6 years,RENT,111297.44,Charged Off,debt_consolidation,25.0,1,804,762,3,38146,96.52,45,28
+36672,60 months,15.53,942.64,B,9 years,MORTGAGE,123886.97,Charged Off,debt_consolidation,11.66,5,649,737,2,48284,27.34,32,47
+36762,60 months,12.39,368.48,F,4 years,OTHER,168661.35,Charged Off,home_improvement,18.78,7,695,681,9,41695,25.32,30,39
+5168,60 months,12.45,752.99,F,10+ years,OWN,132307.66,Default,credit_card,25.36,9,653,771,9,15629,38.76,31,28
+34023,36 months,23.91,417.43,E,6 years,MORTGAGE,146930.44,Charged Off,major_purchase,19.83,0,620,722,2,36304,45.1,30,6
+23929,36 months,13.04,857.62,C,3 years,MORTGAGE,156032.44,Fully Paid,small_business,28.1,6,775,739,1,41910,94.09,23,8
+5916,36 months,11.56,820.56,B,1 year,OWN,82732.79,Default,major_purchase,13.9,7,610,664,6,14975,38.03,11,4
+3394,36 months,6.77,870.51,E,7 years,RENT,118947.43,Fully Paid,home_improvement,1.6,8,808,726,7,21405,82.34,6,46
+28903,60 months,15.35,154.04,F,4 years,MORTGAGE,120759.96,Default,small_business,0.93,5,635,840,7,33013,76.53,43,44
+18441,36 months,21.74,604.22,E,< 1 year,RENT,115083.05,Charged Off,small_business,26.51,7,747,726,0,27204,79.79,42,46
+27876,60 months,20.45,571.57,G,10+ years,MORTGAGE,197436.55,Default,debt_consolidation,27.8,5,760,657,7,10053,37.92,23,9
+37312,60 months,7.9,120.38,E,7 years,RENT,197585.31,Default,debt_consolidation,16.93,8,694,655,2,8330,31.41,22,30
+35960,36 months,8.83,998.23,C,2 years,MORTGAGE,28885.23,Default,home_improvement,6.61,7,778,717,6,32868,82.44,23,42
+10876,36 months,14.28,297.43,C,3 years,MORTGAGE,111813.98,Fully Paid,credit_card,14.88,2,705,620,7,30393,14.78,47,27
+17761,36 months,17.84,718.49,G,2 years,OTHER,159135.37,Default,debt_consolidation,16.3,0,663,638,6,14924,9.61,19,18
+33708,36 months,7.63,731.19,C,< 1 year,OWN,176272.61,Charged Off,small_business,20.66,6,758,679,7,42159,1.02,43,36
+26066,60 months,12.24,571.81,C,3 years,MORTGAGE,63989.41,Fully Paid,small_business,1.99,9,834,757,6,24429,85.96,24,33
+22527,60 months,18.88,521.08,E,10+ years,RENT,53357.72,Fully Paid,home_improvement,14.68,7,658,731,2,8594,25.24,32,40
+30217,60 months,24.01,992.75,F,1 year,RENT,54699.62,Default,major_purchase,16.07,2,772,713,2,34152,88.22,47,16
+19765,36 months,11.57,280.32,F,2 years,MORTGAGE,177179.02,Fully Paid,debt_consolidation,17.64,8,845,805,6,7092,5.96,10,11
+23126,60 months,14.33,704.17,D,7 years,MORTGAGE,29111.36,Default,small_business,25.52,1,761,741,5,41228,61.36,28,22
+2288,36 months,15.02,426.43,D,10+ years,MORTGAGE,28100.51,Charged Off,credit_card,10.17,0,808,642,1,24476,69.44,27,3
+15745,36 months,21.57,994.56,A,10+ years,OTHER,67810.97,Charged Off,major_purchase,29.12,8,682,714,6,38848,88.92,35,47
+15506,36 months,10.82,106.16,A,10+ years,OWN,124174.65,Fully Paid,small_business,27.93,0,731,664,9,15286,26.64,23,45
+34882,60 months,15.67,814.51,D,4 years,OTHER,31232.27,Charged Off,home_improvement,21.81,8,624,818,9,41128,47.91,40,20
+25470,60 months,8.38,719.89,D,8 years,MORTGAGE,96512.35,Charged Off,major_purchase,20.3,2,698,848,8,7383,98.42,12,21
+15780,36 months,18.65,726.64,B,6 years,RENT,179764.47,Fully Paid,small_business,17.21,2,751,654,7,20464,14.92,27,10
+36922,36 months,15.02,317.37,B,< 1 year,OWN,64272.2,Charged Off,major_purchase,3.84,5,731,668,7,4387,87.22,45,23
+1855,36 months,13.35,237.0,C,10+ years,OTHER,68853.09,Default,debt_consolidation,19.25,6,680,780,2,15910,87.75,31,19
+20732,60 months,16.07,50.82,C,3 years,MORTGAGE,25950.24,Charged Off,major_purchase,2.28,6,623,690,4,33416,52.97,42,45
+25363,60 months,24.84,623.04,D,6 years,MORTGAGE,43072.84,Charged Off,debt_consolidation,7.65,8,647,649,7,24848,66.67,44,36
+1034,36 months,15.95,523.41,G,8 years,OTHER,27020.24,Default,major_purchase,22.51,3,846,782,1,12376,43.98,17,13
+8749,36 months,22.94,544.12,A,7 years,MORTGAGE,27046.55,Default,major_purchase,26.24,6,798,752,1,40331,16.74,43,21
+7652,36 months,14.37,732.1,G,2 years,OWN,160462.08,Charged Off,debt_consolidation,14.59,7,684,816,2,15013,50.67,43,28
+10025,36 months,22.64,490.68,A,1 year,MORTGAGE,71532.62,Fully Paid,home_improvement,20.31,6,706,657,7,16382,58.64,33,47
+3094,60 months,20.43,836.3,A,10+ years,OWN,80708.31,Default,small_business,10.68,1,693,753,7,33989,35.78,27,19
+1524,36 months,10.2,927.98,B,7 years,OTHER,140388.9,Charged Off,debt_consolidation,23.44,2,659,647,5,49334,79.08,22,24
+16691,60 months,11.22,850.58,B,10+ years,OTHER,76183.6,Default,major_purchase,28.48,9,749,802,6,1420,40.7,8,5
+24681,60 months,7.9,899.85,D,10+ years,MORTGAGE,89033.52,Default,home_improvement,13.88,2,696,614,7,2959,70.7,26,7
+22856,60 months,13.02,663.45,D,< 1 year,OWN,52132.48,Default,debt_consolidation,6.63,3,795,635,2,38084,17.67,20,21
+7051,60 months,14.31,521.85,D,4 years,RENT,141107.52,Fully Paid,small_business,28.17,8,755,611,0,45573,45.91,25,28
+26847,36 months,15.16,901.02,A,3 years,MORTGAGE,58181.92,Charged Off,major_purchase,1.41,3,770,662,1,15471,95.36,20,29
+22300,60 months,18.88,705.24,E,10+ years,OWN,143979.59,Charged Off,home_improvement,23.98,9,784,668,8,13986,70.14,29,46
+2552,60 months,11.24,414.02,G,5 years,OTHER,99921.71,Charged Off,home_improvement,26.33,3,796,656,2,36499,53.8,13,10
+25548,60 months,22.06,922.74,E,2 years,OWN,169249.78,Charged Off,home_improvement,22.69,9,838,834,0,11512,43.93,45,15
+32396,60 months,14.24,882.55,G,3 years,RENT,128157.21,Fully Paid,small_business,10.02,6,803,789,6,38557,40.7,33,2
+14379,36 months,17.8,846.2,G,< 1 year,RENT,74179.67,Charged Off,credit_card,28.84,4,700,664,2,23255,44.08,17,49
+9800,36 months,19.27,130.75,G,10+ years,OWN,27041.39,Charged Off,home_improvement,9.95,1,813,796,4,10088,72.6,5,34
+28574,36 months,23.48,145.38,A,2 years,OTHER,174229.45,Fully Paid,debt_consolidation,8.0,5,722,714,3,31320,55.83,12,34
+25784,36 months,22.47,119.96,D,4 years,OWN,29739.65,Default,major_purchase,16.34,2,678,709,3,43123,34.83,18,8
+1828,36 months,13.7,747.52,B,9 years,OWN,116621.94,Charged Off,debt_consolidation,22.73,6,828,847,1,39892,68.64,47,35
+18770,36 months,15.04,494.35,B,1 year,RENT,107891.78,Charged Off,small_business,22.4,4,632,816,1,7877,92.02,12,40
+39467,36 months,18.17,555.67,E,< 1 year,OWN,75230.78,Charged Off,credit_card,2.85,4,645,840,4,13874,47.43,6,49
+11365,36 months,17.75,135.61,D,2 years,RENT,145258.43,Fully Paid,debt_consolidation,1.2,1,604,735,5,44780,52.67,39,20
+10118,60 months,11.52,543.44,C,8 years,MORTGAGE,41613.38,Charged Off,home_improvement,19.41,2,647,778,8,40212,52.76,11,21
+15651,36 months,18.99,942.91,D,10+ years,OWN,41344.95,Fully Paid,small_business,20.96,0,734,699,3,16944,81.04,22,4
+21768,36 months,7.53,233.71,D,4 years,OTHER,90337.62,Fully Paid,credit_card,19.63,5,720,652,0,21733,27.9,13,11
+11563,60 months,14.17,209.93,G,4 years,OTHER,173913.55,Charged Off,home_improvement,21.14,9,603,806,0,29608,44.33,5,33
+7896,36 months,10.91,816.89,G,5 years,RENT,49985.51,Charged Off,small_business,1.89,5,629,638,1,45309,67.35,11,13
+6457,60 months,23.47,486.16,G,10+ years,RENT,128800.73,Default,small_business,14.31,0,821,805,2,9454,59.0,14,5
+34188,60 months,11.56,750.06,C,10+ years,OTHER,137666.82,Fully Paid,debt_consolidation,10.84,9,807,688,1,32486,7.93,49,46
+20908,36 months,9.54,585.85,G,3 years,OWN,40344.31,Charged Off,home_improvement,12.12,7,778,765,2,46943,90.65,30,5
+33121,36 months,23.04,899.93,D,6 years,MORTGAGE,44527.2,Fully Paid,small_business,13.87,8,696,814,0,3926,93.75,13,10
+3405,36 months,14.96,72.82,F,< 1 year,RENT,136850.93,Charged Off,credit_card,5.4,6,817,753,0,8111,99.89,21,24
+33918,60 months,17.71,262.31,E,8 years,OTHER,58385.77,Default,debt_consolidation,9.43,7,648,837,3,35106,0.5,12,19
+2241,60 months,22.2,330.95,B,8 years,OWN,184161.02,Fully Paid,debt_consolidation,18.05,2,848,747,9,46621,25.38,12,13
+29033,36 months,16.36,602.91,C,6 years,MORTGAGE,92733.26,Fully Paid,home_improvement,4.07,6,779,689,5,9944,54.76,8,4
+15785,60 months,21.95,414.92,D,4 years,RENT,152037.56,Default,major_purchase,5.53,1,638,712,6,28483,93.27,17,40
+36895,36 months,11.33,696.58,E,8 years,MORTGAGE,65519.97,Charged Off,major_purchase,7.07,1,629,750,6,33214,37.65,13,23
+24900,60 months,5.17,231.72,B,2 years,OWN,128984.67,Charged Off,debt_consolidation,3.66,9,700,754,3,38065,40.41,29,7
+1113,60 months,9.59,709.19,A,4 years,OWN,99266.72,Charged Off,major_purchase,21.02,2,769,835,4,19975,91.01,43,27
+24582,36 months,10.44,203.81,D,3 years,OTHER,64610.93,Fully Paid,debt_consolidation,18.29,4,724,672,8,11318,95.69,36,27
+2996,60 months,7.9,884.36,G,3 years,OWN,58039.13,Default,home_improvement,25.45,1,686,845,0,40242,53.18,20,10
+4663,60 months,19.82,229.3,C,8 years,OWN,175421.89,Fully Paid,credit_card,5.09,9,719,719,9,31771,53.24,27,14
+6584,60 months,20.9,497.51,D,10+ years,OWN,129692.75,Fully Paid,debt_consolidation,14.7,6,672,828,7,35914,82.88,24,45
+11931,60 months,16.33,491.48,A,10+ years,MORTGAGE,77587.35,Charged Off,credit_card,15.09,3,678,674,4,29323,68.77,21,39
+15797,60 months,15.39,777.06,F,1 year,OWN,134649.07,Charged Off,small_business,4.94,6,815,617,2,43594,74.29,26,46
+23280,36 months,6.26,838.2,F,9 years,OWN,176258.69,Charged Off,small_business,8.93,3,792,702,5,45422,62.27,31,34
+9771,60 months,18.41,229.66,D,1 year,OWN,111310.8,Default,credit_card,20.2,1,793,817,6,35901,46.94,7,45
+12310,60 months,7.63,371.97,D,8 years,OTHER,136494.79,Charged Off,small_business,25.27,1,726,672,9,10528,30.73,32,22
+33597,36 months,19.05,447.75,C,5 years,RENT,110572.31,Fully Paid,credit_card,29.88,8,745,648,9,44326,66.42,14,44
+39195,36 months,10.33,903.7,C,2 years,MORTGAGE,184375.71,Charged Off,small_business,25.21,8,818,682,2,31639,53.06,49,25
+11667,36 months,11.49,846.79,E,2 years,OWN,141623.34,Default,home_improvement,11.23,0,823,818,8,6751,20.76,46,22
+16758,60 months,16.84,74.63,G,3 years,OWN,61137.35,Fully Paid,home_improvement,22.1,3,784,774,7,20758,47.81,45,14
+29854,36 months,8.08,823.45,F,8 years,OWN,65120.0,Fully Paid,credit_card,7.76,2,813,736,2,27630,17.24,40,2
+7690,36 months,17.1,703.65,B,9 years,OWN,166914.87,Fully Paid,debt_consolidation,1.92,3,724,661,6,48917,36.67,26,49
+24017,60 months,5.32,707.52,D,5 years,RENT,102976.97,Default,debt_consolidation,1.33,9,664,802,1,45456,4.69,14,26
+17926,36 months,5.03,953.97,F,6 years,OTHER,137543.59,Default,major_purchase,8.6,1,776,719,2,26019,33.66,13,3
+37092,60 months,10.15,864.71,D,4 years,OTHER,43739.86,Charged Off,small_business,25.43,2,782,767,9,19434,21.69,48,10
+2518,60 months,10.93,669.74,B,5 years,OTHER,139213.32,Default,small_business,12.93,8,640,601,3,22650,60.45,46,11
+39975,60 months,13.21,674.78,C,6 years,RENT,105876.77,Default,debt_consolidation,19.73,6,777,684,7,15814,83.67,29,26
+14364,36 months,17.68,358.56,G,2 years,RENT,24435.15,Default,credit_card,21.54,5,815,746,8,34566,33.69,18,27
+34322,36 months,8.81,645.81,B,6 years,OTHER,169147.3,Charged Off,small_business,12.49,2,774,779,0,27901,42.17,29,10
+25883,60 months,23.34,328.64,F,< 1 year,MORTGAGE,183103.99,Default,debt_consolidation,22.83,9,829,669,2,6804,16.97,27,17
+38466,36 months,20.52,416.14,D,3 years,RENT,195076.91,Fully Paid,credit_card,4.66,0,729,751,7,47211,41.94,30,13
+2352,36 months,17.18,134.2,A,5 years,OWN,106582.07,Charged Off,home_improvement,23.25,8,849,615,9,41460,53.85,41,45
+11551,36 months,9.37,512.84,C,8 years,MORTGAGE,43367.88,Default,home_improvement,7.13,0,750,821,1,20629,49.84,15,14
+20355,60 months,16.8,743.41,A,4 years,OTHER,74500.19,Fully Paid,small_business,19.45,6,809,839,4,2953,59.53,46,32
+28192,36 months,14.87,868.57,E,5 years,MORTGAGE,124895.52,Charged Off,credit_card,18.22,5,728,729,1,35523,1.18,16,19
+11761,36 months,13.53,685.0,C,2 years,OWN,178858.27,Charged Off,credit_card,21.42,6,683,743,5,19770,63.32,45,47
+2858,36 months,9.12,591.15,D,5 years,OTHER,102240.26,Charged Off,small_business,16.29,8,736,643,1,5458,0.03,46,3
+37196,60 months,18.4,632.57,C,9 years,OTHER,93630.51,Default,home_improvement,11.47,1,686,606,2,32946,71.54,42,39
+12754,60 months,12.73,688.15,D,9 years,RENT,26402.1,Charged Off,home_improvement,17.61,0,739,821,7,47643,8.03,34,28
+19989,60 months,19.08,539.51,G,3 years,MORTGAGE,111690.45,Default,home_improvement,8.84,6,709,757,6,4164,98.07,47,31
+4150,36 months,12.48,724.98,B,1 year,MORTGAGE,108376.06,Default,credit_card,25.49,3,645,810,6,8829,98.46,44,40
+34497,60 months,17.13,896.85,E,8 years,OTHER,89046.02,Charged Off,home_improvement,21.56,4,838,669,6,34149,11.02,22,18
+34165,60 months,10.69,586.88,E,1 year,RENT,78726.17,Default,credit_card,12.93,0,630,802,4,27360,66.6,16,37
+37410,36 months,13.53,363.76,C,10+ years,OWN,131924.36,Fully Paid,small_business,16.23,1,629,611,2,26192,11.5,32,1
+28478,60 months,18.97,283.55,F,2 years,MORTGAGE,70310.36,Charged Off,debt_consolidation,3.92,1,612,623,1,47547,76.34,11,30
+38573,60 months,13.41,448.77,A,< 1 year,RENT,118194.35,Fully Paid,credit_card,6.41,9,781,804,7,24852,70.67,15,41
+20965,60 months,23.48,882.06,G,9 years,MORTGAGE,168658.92,Charged Off,major_purchase,14.88,1,757,788,4,21037,10.95,43,20
+25957,60 months,18.72,174.03,F,< 1 year,RENT,146230.05,Default,major_purchase,0.04,5,821,723,7,7030,89.48,16,32
+6196,36 months,17.73,722.44,B,3 years,OWN,180153.18,Charged Off,small_business,11.64,3,619,746,7,26932,73.95,20,11
+3759,60 months,21.16,110.79,B,< 1 year,OTHER,46870.37,Charged Off,small_business,3.99,6,760,720,6,27539,39.52,16,11
+27012,60 months,24.27,747.83,B,8 years,OTHER,77540.51,Default,small_business,5.46,6,830,828,5,25670,61.35,9,21
+9663,36 months,23.11,293.39,G,10+ years,OTHER,94499.07,Charged Off,credit_card,7.1,5,774,683,6,13964,37.79,25,24
+18600,36 months,13.88,205.72,G,8 years,OWN,21769.42,Charged Off,credit_card,19.89,3,703,633,0,42294,91.15,49,21
+7559,60 months,19.98,237.07,C,5 years,OWN,185104.93,Default,credit_card,15.24,2,808,777,5,29678,48.52,30,48
+13001,36 months,17.7,50.5,G,8 years,MORTGAGE,169909.57,Fully Paid,credit_card,6.74,0,711,779,4,31005,14.55,47,19
+8151,36 months,17.74,451.49,E,8 years,MORTGAGE,135450.97,Charged Off,home_improvement,8.56,2,840,698,2,36982,25.95,27,26
+1057,60 months,24.78,940.74,D,6 years,OWN,72823.19,Charged Off,major_purchase,23.75,1,819,765,1,30395,73.32,43,30
+27881,36 months,23.0,207.64,E,6 years,RENT,61107.71,Default,debt_consolidation,28.75,1,675,761,0,1868,62.26,24,33
+3603,36 months,8.31,720.68,F,< 1 year,OTHER,144904.23,Fully Paid,debt_consolidation,13.82,1,714,747,2,30317,83.18,16,10
+15186,60 months,17.98,661.99,B,4 years,OTHER,83794.09,Default,home_improvement,7.7,1,621,702,4,28451,11.1,12,30
+34359,60 months,21.72,225.85,B,4 years,OTHER,23244.5,Charged Off,credit_card,14.08,6,681,799,8,24604,97.5,21,4
+24922,60 months,9.49,466.03,E,6 years,OTHER,96239.56,Charged Off,major_purchase,29.98,7,675,723,6,39650,11.24,13,49
+20468,60 months,21.55,419.77,A,4 years,OTHER,182304.47,Fully Paid,home_improvement,6.72,5,705,799,0,38578,29.55,38,2
+33715,36 months,18.29,290.74,E,3 years,MORTGAGE,145350.06,Default,home_improvement,21.79,0,800,730,0,40736,4.54,26,6
+30185,36 months,19.18,632.39,B,4 years,OWN,162407.68,Default,home_improvement,19.88,7,659,709,9,8416,60.7,20,6
+18189,60 months,24.73,667.81,B,6 years,RENT,137377.87,Default,debt_consolidation,4.35,1,605,826,1,17467,40.21,44,1
+9802,36 months,7.67,656.23,A,8 years,OWN,54751.69,Default,debt_consolidation,4.83,4,800,628,2,5206,22.0,48,1
+14107,60 months,21.94,862.2,F,6 years,RENT,148760.94,Charged Off,small_business,5.47,8,676,847,3,41336,33.79,26,26
+3809,36 months,15.77,288.5,D,3 years,MORTGAGE,109341.4,Charged Off,credit_card,21.44,9,739,677,0,16692,5.54,29,26
+20933,36 months,13.0,67.97,F,6 years,RENT,42266.58,Charged Off,credit_card,0.7,3,750,713,5,20793,13.26,36,34
+7737,36 months,16.05,265.44,B,8 years,MORTGAGE,191274.8,Default,debt_consolidation,4.76,9,651,680,8,40491,10.49,15,46
+35200,36 months,21.57,469.29,A,4 years,MORTGAGE,172590.83,Default,small_business,2.56,2,837,615,1,21510,35.95,17,7
+38505,60 months,11.61,928.44,G,10+ years,RENT,54233.18,Fully Paid,debt_consolidation,11.23,6,616,610,3,9233,58.83,48,4
+33437,60 months,16.05,755.54,A,5 years,MORTGAGE,107510.5,Default,small_business,9.99,8,837,687,1,24414,78.28,26,7
+21171,60 months,17.81,644.76,B,5 years,MORTGAGE,165936.75,Default,small_business,5.11,5,779,697,1,31252,48.42,44,9
+33275,36 months,9.3,829.19,D,1 year,MORTGAGE,136553.02,Charged Off,debt_consolidation,1.48,5,718,728,9,33236,19.88,42,30
+35662,60 months,5.89,323.67,F,3 years,OTHER,141532.89,Fully Paid,home_improvement,21.9,5,742,783,8,21549,45.28,20,22
+18706,60 months,21.91,714.35,D,5 years,OTHER,140838.92,Charged Off,debt_consolidation,21.38,2,715,772,9,42187,62.41,12,29
+39701,60 months,8.76,768.28,A,8 years,RENT,130123.21,Charged Off,credit_card,9.51,5,666,770,0,17853,13.45,20,6
+11328,36 months,11.63,126.87,D,9 years,RENT,66631.46,Default,home_improvement,29.57,0,643,749,8,3439,14.03,46,2
+38648,36 months,22.84,187.07,B,6 years,MORTGAGE,83537.8,Default,small_business,24.15,9,618,692,8,6857,73.32,17,28
+15747,36 months,12.61,167.83,B,< 1 year,MORTGAGE,182500.3,Default,credit_card,18.46,3,743,810,8,18745,60.81,44,39
+24074,36 months,22.74,265.83,F,7 years,MORTGAGE,110323.12,Charged Off,credit_card,17.39,5,669,796,8,19963,75.32,42,45
+12497,36 months,22.71,694.2,F,9 years,OTHER,195929.77,Fully Paid,small_business,19.41,5,801,691,8,4503,30.82,27,3
+22342,36 months,19.01,954.56,D,1 year,MORTGAGE,156649.0,Charged Off,small_business,16.46,6,701,812,4,43482,4.99,12,15
+29408,60 months,9.35,667.89,F,10+ years,MORTGAGE,140775.06,Charged Off,home_improvement,22.52,0,822,684,4,8258,81.59,29,18
+1682,60 months,23.48,449.55,D,< 1 year,RENT,171145.36,Default,major_purchase,9.86,6,721,777,0,34035,29.26,33,18
+15479,36 months,10.14,759.26,G,8 years,MORTGAGE,145600.97,Fully Paid,major_purchase,29.93,8,721,820,3,20329,66.2,14,43
+2386,60 months,8.74,586.44,C,5 years,MORTGAGE,108101.37,Charged Off,major_purchase,19.37,6,718,600,3,3395,15.31,11,40
+28172,60 months,17.38,688.89,B,10+ years,OWN,106966.92,Charged Off,small_business,12.51,1,672,716,5,45908,36.27,27,38
+3814,36 months,21.89,709.55,F,4 years,OTHER,167430.51,Charged Off,home_improvement,21.15,5,607,826,7,21783,16.97,25,4
+19911,60 months,17.66,372.04,F,3 years,RENT,132269.29,Charged Off,small_business,19.17,1,750,641,5,27650,87.11,30,22
+29064,36 months,13.32,889.78,E,6 years,OWN,196338.37,Default,major_purchase,28.24,2,664,764,0,31202,97.7,36,34
+21357,36 months,13.22,571.39,A,< 1 year,OWN,152785.24,Charged Off,debt_consolidation,27.32,4,758,807,4,24779,90.06,13,32
+7607,36 months,18.43,705.35,C,2 years,OTHER,166369.7,Charged Off,small_business,17.49,0,606,626,3,22167,84.64,33,13
+13420,60 months,23.48,389.88,B,8 years,OWN,188470.56,Fully Paid,debt_consolidation,11.57,6,773,698,7,11923,10.56,28,35
+18106,36 months,8.77,810.61,D,8 years,MORTGAGE,167601.28,Default,debt_consolidation,20.66,2,695,773,4,29633,15.31,46,18
+37508,36 months,12.4,116.33,D,< 1 year,MORTGAGE,107301.56,Fully Paid,small_business,4.78,2,725,604,5,13329,21.5,43,46
+26844,60 months,24.47,764.28,B,< 1 year,OWN,30413.43,Charged Off,debt_consolidation,28.73,8,625,807,6,12939,20.35,25,38
+24502,36 months,9.86,176.11,G,2 years,MORTGAGE,172521.35,Default,small_business,13.49,7,845,725,0,49273,31.77,22,15
+1068,60 months,11.58,126.67,A,2 years,OWN,75206.06,Fully Paid,credit_card,19.97,1,826,784,3,643,11.49,40,28
+31354,36 months,24.05,754.84,E,10+ years,OTHER,114533.48,Default,major_purchase,11.68,4,685,702,5,42188,44.33,11,12
+20641,36 months,20.75,905.39,F,4 years,RENT,90466.33,Charged Off,debt_consolidation,16.81,4,846,821,9,37577,56.02,25,44
+28008,60 months,13.4,819.37,B,2 years,OTHER,177094.93,Default,credit_card,9.44,5,701,622,7,39827,85.93,22,45
+6709,36 months,20.09,69.33,C,< 1 year,RENT,179747.07,Charged Off,major_purchase,25.95,6,813,840,5,30202,88.36,18,25
+39720,36 months,5.24,665.72,E,7 years,OWN,139651.13,Charged Off,small_business,4.46,9,731,618,4,9060,14.77,35,37
+26252,60 months,20.29,842.13,F,6 years,OWN,49968.89,Fully Paid,debt_consolidation,28.98,3,758,823,0,44597,30.26,9,20
+31882,36 months,19.02,171.61,B,9 years,OTHER,40113.7,Charged Off,debt_consolidation,2.21,3,691,841,6,47500,70.51,6,21
+2578,36 months,19.78,469.9,G,3 years,MORTGAGE,112151.94,Default,credit_card,0.74,8,698,681,3,49403,54.89,37,5
+32235,60 months,16.39,377.56,D,8 years,MORTGAGE,164300.29,Charged Off,small_business,2.82,4,740,791,2,38616,44.75,13,36
+36443,60 months,19.21,158.64,G,6 years,MORTGAGE,88763.73,Charged Off,home_improvement,20.78,8,616,643,9,23216,16.35,34,49
+30314,36 months,10.18,792.79,E,< 1 year,MORTGAGE,108342.9,Charged Off,debt_consolidation,22.06,5,704,670,4,17156,9.99,38,41
+21116,36 months,6.07,931.29,E,5 years,OTHER,144595.5,Charged Off,credit_card,27.13,4,722,751,5,40598,59.01,41,27
+30132,60 months,5.14,240.45,E,4 years,OTHER,86300.56,Charged Off,credit_card,21.54,6,823,602,5,28821,62.33,34,47
+9371,36 months,16.01,756.95,B,1 year,RENT,182183.87,Default,credit_card,27.99,7,652,809,0,37829,97.77,28,39
+2184,60 months,6.5,399.61,D,2 years,RENT,184046.6,Default,credit_card,5.07,9,752,822,7,32831,41.9,26,46
+31536,36 months,15.72,918.52,E,1 year,OWN,188260.57,Fully Paid,home_improvement,18.44,7,668,691,8,9316,40.35,31,47
+6603,60 months,23.3,818.36,A,6 years,OTHER,95017.26,Fully Paid,home_improvement,19.99,7,782,803,8,29461,97.8,25,11
+4144,60 months,21.62,919.1,D,6 years,OWN,118187.1,Charged Off,major_purchase,29.56,1,776,646,6,18299,7.91,23,11
+15096,60 months,7.89,209.43,C,8 years,RENT,171085.43,Fully Paid,home_improvement,12.31,9,688,818,3,4016,17.14,26,14
+11080,60 months,24.3,822.18,G,2 years,RENT,193882.45,Default,debt_consolidation,24.88,8,766,655,9,32849,19.6,22,49
+21457,60 months,24.4,416.05,A,8 years,OWN,35839.02,Charged Off,major_purchase,15.68,6,733,755,2,41461,61.0,8,27
+23819,36 months,9.83,879.47,E,9 years,MORTGAGE,58845.97,Charged Off,small_business,6.93,6,630,710,2,21797,83.68,48,18
+18036,60 months,23.69,90.47,D,9 years,MORTGAGE,145248.01,Fully Paid,small_business,9.44,7,678,612,6,37526,61.08,18,15
+15315,60 months,20.68,200.02,C,4 years,OTHER,190088.7,Fully Paid,debt_consolidation,5.76,4,715,772,1,523,91.64,30,7
+20774,60 months,12.31,680.33,F,8 years,OWN,49802.51,Fully Paid,credit_card,22.3,6,813,724,9,28658,9.84,42,42
+15003,60 months,14.64,495.69,C,3 years,MORTGAGE,71053.05,Fully Paid,credit_card,22.02,8,840,747,4,43028,15.02,42,5
+22237,36 months,18.18,147.43,C,6 years,RENT,146807.93,Charged Off,debt_consolidation,15.85,0,785,827,3,10864,41.16,24,9
+33861,60 months,12.79,303.33,C,9 years,RENT,25443.68,Default,home_improvement,9.06,7,832,674,4,1960,59.5,45,1
+38024,60 months,24.26,698.52,F,8 years,RENT,49617.61,Fully Paid,major_purchase,8.13,0,602,736,6,44938,5.24,33,20
+13804,60 months,15.14,685.02,D,7 years,MORTGAGE,179728.67,Fully Paid,small_business,3.1,3,726,798,4,3424,89.74,45,18
+11919,36 months,9.23,193.52,A,< 1 year,OTHER,193140.41,Charged Off,major_purchase,14.26,4,718,784,9,11356,56.74,12,29
+8992,36 months,21.97,936.35,A,< 1 year,MORTGAGE,150967.7,Charged Off,debt_consolidation,3.82,3,746,779,5,28039,27.48,16,12
+21590,36 months,8.92,210.95,G,3 years,OTHER,77810.72,Charged Off,credit_card,26.18,8,775,634,1,30575,89.82,27,37
+28969,60 months,10.61,368.59,D,3 years,OTHER,174694.34,Default,debt_consolidation,20.42,9,728,757,8,25677,20.25,6,34
+21734,36 months,13.92,703.29,G,1 year,OTHER,88940.55,Default,credit_card,17.54,5,768,817,2,48904,1.11,48,20
+17364,60 months,11.79,797.04,B,6 years,MORTGAGE,167425.59,Default,home_improvement,22.66,2,718,708,9,12572,46.14,10,9
+16692,60 months,18.1,228.86,E,1 year,OTHER,62652.19,Charged Off,major_purchase,15.53,5,663,645,6,42526,62.44,41,20
+25721,60 months,5.57,538.15,E,8 years,RENT,120893.35,Fully Paid,credit_card,25.23,7,676,614,9,8406,53.45,20,45
+36674,36 months,9.87,659.67,E,3 years,OWN,163410.12,Fully Paid,debt_consolidation,1.82,9,703,737,2,5118,95.2,20,25
+35526,60 months,18.61,389.69,F,3 years,OWN,145355.28,Fully Paid,home_improvement,10.21,0,611,834,2,15316,89.08,22,39
+22554,36 months,20.03,211.4,F,< 1 year,OTHER,162892.9,Fully Paid,major_purchase,8.28,5,836,716,1,31684,22.01,11,35
+20232,36 months,20.51,756.74,B,< 1 year,OWN,99541.93,Default,major_purchase,19.09,6,709,802,1,49173,90.62,27,4
+22072,36 months,5.49,878.31,A,5 years,RENT,117914.93,Charged Off,credit_card,9.51,5,728,716,8,46347,38.17,21,8
+15057,60 months,11.61,315.39,E,3 years,MORTGAGE,49276.68,Charged Off,home_improvement,23.65,0,826,837,5,43473,65.35,49,47
+19484,36 months,14.45,441.7,F,2 years,OWN,107719.55,Charged Off,credit_card,9.74,4,702,685,9,41472,14.94,20,48
+32238,60 months,21.8,863.71,G,3 years,OWN,57583.38,Default,debt_consolidation,0.21,2,610,732,1,28553,41.7,29,7
+1372,36 months,17.95,543.92,B,5 years,OTHER,96628.12,Fully Paid,credit_card,27.17,3,692,614,8,23957,72.32,32,42
+11037,36 months,7.07,685.57,A,10+ years,MORTGAGE,62845.84,Default,credit_card,9.75,8,843,711,3,15298,80.12,7,45
+4629,60 months,6.37,390.59,F,2 years,RENT,61614.51,Default,debt_consolidation,6.44,8,807,641,9,22181,25.43,34,29
+32394,36 months,12.32,219.67,F,8 years,OTHER,154676.22,Default,home_improvement,28.77,0,813,746,7,20392,67.07,41,22
+31447,60 months,11.59,855.03,G,4 years,OTHER,27809.67,Charged Off,home_improvement,11.35,8,721,619,1,33501,63.74,9,18
+39514,60 months,20.19,648.24,D,3 years,MORTGAGE,124283.07,Charged Off,home_improvement,28.93,0,641,603,8,13789,88.32,15,22
+20284,36 months,9.69,793.82,B,10+ years,MORTGAGE,172137.68,Default,small_business,7.23,4,756,722,9,25047,15.55,46,34
+20243,36 months,12.39,919.62,F,8 years,RENT,31974.6,Default,credit_card,26.09,9,660,655,0,46713,15.5,41,1
+12568,60 months,12.99,126.63,D,6 years,MORTGAGE,135479.77,Charged Off,credit_card,23.14,0,667,748,7,29591,67.75,24,21
+38313,60 months,20.99,359.68,B,10+ years,MORTGAGE,179629.62,Charged Off,small_business,24.93,4,844,819,6,30379,10.87,48,29
+9319,60 months,17.3,69.48,F,5 years,RENT,113311.13,Default,debt_consolidation,10.65,0,656,775,1,4871,7.3,13,29
+18432,36 months,21.88,986.97,G,3 years,MORTGAGE,163677.88,Charged Off,major_purchase,7.08,1,675,695,3,3564,93.84,39,26
+38117,36 months,12.31,364.4,G,8 years,OWN,39095.74,Default,home_improvement,0.96,9,731,751,9,44805,12.97,42,7
+3287,36 months,6.22,77.12,A,1 year,OWN,169215.79,Charged Off,small_business,20.26,3,662,642,9,35064,67.73,28,42
+5055,60 months,22.1,196.14,B,9 years,OWN,110615.09,Default,debt_consolidation,4.36,7,615,646,2,29491,46.86,22,43
+21252,36 months,20.67,845.79,G,6 years,OWN,189841.28,Charged Off,home_improvement,17.94,5,695,771,2,25176,0.01,38,25
+29170,36 months,7.39,481.45,F,8 years,RENT,82651.41,Fully Paid,debt_consolidation,23.33,0,651,648,6,39851,2.43,27,5
+34140,36 months,13.74,899.31,G,3 years,OWN,165816.38,Charged Off,credit_card,19.63,2,647,704,2,32770,7.33,25,21
+26279,60 months,22.4,871.2,F,4 years,OWN,106815.83,Default,major_purchase,10.0,5,676,770,3,23183,40.99,8,15
+28801,36 months,22.72,597.39,D,9 years,OTHER,85721.45,Fully Paid,major_purchase,26.7,9,671,788,2,3255,45.57,6,28
+24557,36 months,18.17,671.96,E,3 years,MORTGAGE,188992.34,Charged Off,credit_card,5.33,1,626,703,4,30365,98.28,35,5
+33656,36 months,8.37,797.54,F,1 year,MORTGAGE,169281.41,Charged Off,small_business,17.77,6,764,827,7,6403,70.49,40,26
+6789,60 months,13.56,730.76,F,2 years,OWN,31401.41,Default,major_purchase,24.92,5,644,610,8,45124,18.37,39,39
+1429,36 months,23.98,605.36,F,5 years,OWN,146782.02,Charged Off,credit_card,26.94,5,718,718,3,1633,75.54,45,8
+29408,36 months,10.69,354.35,C,1 year,MORTGAGE,112798.08,Fully Paid,debt_consolidation,18.38,7,683,687,0,46671,32.55,23,11
+4005,60 months,23.32,208.01,A,< 1 year,OTHER,54005.57,Charged Off,home_improvement,8.33,3,617,754,7,4399,95.65,34,13
+37044,60 months,5.43,377.89,F,3 years,OWN,23181.0,Fully Paid,credit_card,25.66,3,810,739,9,29557,91.35,14,48
+38916,36 months,14.74,186.03,C,4 years,MORTGAGE,171444.92,Default,credit_card,11.24,3,707,698,9,45882,21.66,12,10
+7954,36 months,7.44,682.22,A,9 years,OWN,192953.96,Charged Off,small_business,28.38,8,628,676,1,21020,50.38,49,12
+2795,36 months,8.03,397.32,E,3 years,OTHER,149819.5,Default,small_business,6.13,6,713,620,7,16104,61.24,20,32
+18800,36 months,19.16,209.77,C,9 years,OWN,30002.51,Default,small_business,0.83,9,845,784,0,44891,44.3,40,42
+20594,36 months,5.72,330.82,A,4 years,MORTGAGE,170098.42,Fully Paid,home_improvement,26.76,4,752,708,2,2731,36.53,32,31
+35180,60 months,5.58,839.1,A,4 years,OTHER,57103.48,Fully Paid,home_improvement,9.68,2,656,842,3,40142,46.2,17,9
+13538,60 months,7.44,943.07,A,9 years,OTHER,193819.4,Fully Paid,major_purchase,10.83,1,713,625,3,16866,28.28,44,17
+34497,36 months,17.94,713.2,C,7 years,OTHER,186835.44,Default,credit_card,7.97,4,760,751,3,18977,35.39,35,35
+21550,36 months,8.73,315.56,B,2 years,RENT,26075.43,Charged Off,debt_consolidation,24.58,8,696,618,8,5988,22.53,9,32
+34220,60 months,14.27,323.9,B,2 years,OWN,135096.18,Default,small_business,6.02,8,663,713,2,35479,55.3,18,40
+35836,36 months,5.51,365.49,F,10+ years,OTHER,173950.13,Charged Off,small_business,14.43,5,737,618,3,33919,11.4,28,24
+8774,60 months,9.79,529.49,F,1 year,RENT,48329.94,Fully Paid,major_purchase,27.96,0,730,645,9,25710,57.65,43,5
+39228,36 months,9.72,203.86,E,1 year,OWN,172559.68,Charged Off,small_business,16.43,7,600,817,2,35780,57.38,20,31
+17598,36 months,24.31,366.76,B,3 years,MORTGAGE,82975.88,Fully Paid,debt_consolidation,23.58,1,607,803,9,25876,49.31,34,9
+5093,60 months,6.98,121.16,G,9 years,OWN,41253.14,Fully Paid,credit_card,3.78,8,773,657,1,9961,88.57,47,41
+36919,60 months,12.39,498.2,F,5 years,RENT,96358.49,Fully Paid,home_improvement,20.16,8,690,654,1,33274,24.64,20,1
+1220,36 months,5.9,995.16,E,7 years,MORTGAGE,51196.92,Fully Paid,home_improvement,5.29,3,685,625,5,2315,85.64,39,39
+36948,36 months,14.15,435.35,B,5 years,OTHER,68297.66,Charged Off,small_business,4.36,6,818,646,3,13834,24.29,11,4
+25098,36 months,23.73,151.4,E,5 years,RENT,113721.37,Default,small_business,9.73,7,763,648,2,31650,14.23,38,3
+32902,60 months,24.25,80.26,B,10+ years,OWN,190664.1,Fully Paid,home_improvement,4.3,5,820,693,8,39279,68.04,17,44
+29169,36 months,23.71,580.54,D,6 years,RENT,194907.91,Fully Paid,home_improvement,17.1,8,622,733,3,45913,72.04,15,29
+17135,36 months,19.39,365.61,F,< 1 year,MORTGAGE,60890.85,Fully Paid,home_improvement,4.37,0,710,830,9,15530,67.46,46,40
+27969,60 months,21.15,278.09,G,3 years,OTHER,188043.03,Charged Off,credit_card,12.77,3,805,833,3,1796,57.72,9,41
+19116,36 months,20.57,627.92,B,5 years,OTHER,92254.37,Fully Paid,debt_consolidation,24.26,5,801,778,4,41505,23.48,33,32
+17337,60 months,20.25,700.34,C,3 years,RENT,161825.5,Fully Paid,major_purchase,5.45,9,663,700,5,44322,70.34,27,14
+22123,36 months,21.44,506.44,C,4 years,RENT,122837.67,Charged Off,home_improvement,4.61,0,771,697,7,33497,45.72,49,1
+16590,60 months,15.26,180.98,D,10+ years,OWN,148970.15,Default,major_purchase,1.52,2,670,725,2,7261,56.35,13,48
+39946,36 months,11.42,132.93,G,5 years,RENT,149421.59,Fully Paid,credit_card,26.94,4,679,670,4,49844,56.59,45,43
+38408,36 months,13.77,322.93,G,6 years,MORTGAGE,78313.27,Default,home_improvement,6.94,0,696,719,2,6215,34.72,43,44
+25165,60 months,10.93,768.33,A,3 years,MORTGAGE,87969.68,Fully Paid,major_purchase,3.26,5,769,612,7,25819,84.32,9,39
+26647,36 months,13.79,156.86,D,10+ years,RENT,99862.55,Charged Off,credit_card,1.38,2,764,636,3,27190,80.68,34,6
+32055,36 months,15.53,616.21,F,4 years,OWN,60873.68,Charged Off,credit_card,9.19,5,603,610,9,11347,47.1,40,9
+12732,36 months,7.61,287.85,G,4 years,RENT,129734.43,Fully Paid,major_purchase,5.27,8,620,602,6,10658,60.97,43,8
+31817,36 months,5.13,309.15,A,5 years,OTHER,108568.58,Default,home_improvement,22.57,2,641,810,6,7889,93.9,9,41
+15101,36 months,23.7,84.65,F,5 years,OTHER,54730.54,Charged Off,major_purchase,18.49,0,831,663,6,46053,85.68,13,44
+19752,36 months,7.19,985.97,E,10+ years,OTHER,94515.27,Fully Paid,major_purchase,8.55,0,698,713,5,37004,39.94,15,16
+32762,36 months,18.15,899.98,A,4 years,OWN,142768.84,Fully Paid,home_improvement,29.65,7,767,848,1,16339,29.89,5,13
+5554,60 months,5.62,506.35,A,9 years,RENT,109017.02,Default,credit_card,12.07,6,774,658,7,6008,91.3,46,24
+29977,60 months,12.42,468.02,F,7 years,OTHER,20263.53,Default,debt_consolidation,6.86,3,629,689,0,2922,60.36,47,32
+15869,36 months,17.72,99.62,F,3 years,MORTGAGE,105617.36,Charged Off,debt_consolidation,26.57,6,714,703,9,32513,32.26,14,19
+7796,60 months,20.19,388.26,A,8 years,RENT,126292.98,Charged Off,credit_card,28.51,2,767,722,4,26391,75.16,8,41
+10309,60 months,15.32,169.83,D,9 years,OTHER,143564.56,Charged Off,home_improvement,4.34,4,740,603,4,49573,36.65,35,25
+27501,60 months,19.53,753.15,C,5 years,RENT,193757.25,Default,home_improvement,10.24,6,694,629,0,17509,11.7,45,38
+14174,36 months,14.28,286.88,B,1 year,RENT,114486.41,Default,debt_consolidation,11.7,7,704,775,5,25249,10.42,46,26
+25198,36 months,8.39,610.5,C,10+ years,RENT,93342.11,Fully Paid,home_improvement,25.94,7,807,728,9,36157,58.38,30,41
+32839,60 months,5.03,506.35,E,7 years,RENT,63997.47,Fully Paid,major_purchase,22.6,3,747,686,4,1600,99.04,48,11
+10589,60 months,20.77,739.98,C,4 years,OWN,112899.7,Charged Off,debt_consolidation,12.04,6,711,744,1,26455,39.97,46,35
+36843,60 months,13.87,547.44,C,< 1 year,OTHER,116050.28,Default,debt_consolidation,27.52,4,697,843,8,10932,34.04,34,15
+14811,36 months,16.9,828.71,F,9 years,OWN,121946.49,Default,debt_consolidation,18.03,3,839,811,9,17259,42.81,23,10
+6473,60 months,24.4,82.57,D,4 years,OTHER,69203.44,Fully Paid,credit_card,3.65,2,831,735,6,2972,59.59,33,21
+8270,36 months,18.61,484.92,C,5 years,MORTGAGE,179350.98,Charged Off,debt_consolidation,11.49,2,625,732,7,40141,38.18,9,45
+4503,60 months,19.45,494.2,E,8 years,RENT,108104.72,Fully Paid,major_purchase,4.01,3,793,651,9,6133,28.09,41,11
+20416,36 months,22.54,65.34,E,9 years,MORTGAGE,156674.72,Default,home_improvement,11.66,8,795,814,9,13324,64.82,38,44
+10771,60 months,21.33,94.17,B,2 years,RENT,100402.42,Default,credit_card,4.95,4,635,797,8,32033,69.71,48,11
+21975,60 months,5.37,273.64,E,1 year,RENT,119146.31,Default,small_business,4.74,2,704,825,0,23980,51.49,17,3
+24111,36 months,8.93,297.67,B,9 years,OWN,198024.67,Default,home_improvement,10.6,4,725,677,4,20186,16.7,11,35
+7761,60 months,11.62,95.91,E,7 years,OTHER,48407.09,Default,major_purchase,14.41,4,656,821,2,45885,87.98,22,43
+25994,60 months,19.0,405.27,C,3 years,MORTGAGE,59958.77,Fully Paid,major_purchase,15.41,8,785,792,7,44612,33.99,36,38
+16694,36 months,21.78,89.7,D,3 years,MORTGAGE,20391.86,Fully Paid,small_business,11.81,2,633,645,3,34775,35.65,11,18
+2734,60 months,6.58,676.71,E,4 years,OTHER,154051.99,Default,small_business,6.89,2,673,632,2,46852,58.89,33,7
+25557,36 months,18.5,180.29,F,6 years,OWN,178912.99,Default,small_business,12.54,0,802,616,1,1541,16.31,49,47
+36410,36 months,13.25,897.17,D,2 years,OTHER,67161.42,Default,small_business,13.14,6,776,612,3,34629,4.35,36,22
+39306,36 months,17.24,542.35,E,9 years,RENT,180505.34,Fully Paid,major_purchase,12.09,5,741,689,7,17368,73.66,45,31
+33359,36 months,23.21,786.13,B,7 years,OWN,115832.23,Charged Off,debt_consolidation,2.72,4,754,623,9,14267,61.08,26,7
+34263,36 months,9.26,876.52,E,4 years,OWN,165107.11,Charged Off,home_improvement,2.0,9,828,711,3,48331,97.64,44,11
+27988,60 months,17.92,813.62,A,8 years,OTHER,33012.78,Default,credit_card,23.07,1,743,818,3,4313,4.95,11,33
+19396,36 months,7.6,151.97,B,< 1 year,MORTGAGE,180142.24,Fully Paid,major_purchase,0.06,5,698,662,7,2276,71.72,39,15
+23433,36 months,12.53,117.06,C,9 years,OWN,133409.05,Default,debt_consolidation,29.78,4,621,715,1,5478,71.21,17,18
+35179,36 months,6.03,242.46,E,10+ years,OTHER,86587.4,Charged Off,major_purchase,16.27,0,675,697,1,13768,3.84,20,45
+27596,36 months,15.21,255.78,B,5 years,OTHER,152370.01,Default,debt_consolidation,4.23,8,704,705,8,9868,55.39,5,22
+36050,36 months,12.45,288.78,D,3 years,MORTGAGE,46820.32,Fully Paid,debt_consolidation,11.74,2,758,797,7,19957,30.42,46,39
+36251,36 months,18.01,230.83,F,8 years,OWN,37082.37,Charged Off,major_purchase,14.28,9,802,720,6,25146,54.41,32,49
+5278,60 months,9.85,832.65,E,5 years,MORTGAGE,162461.54,Default,debt_consolidation,1.9,7,703,845,0,48609,50.54,11,47
+19962,36 months,8.88,989.72,C,8 years,MORTGAGE,47035.32,Fully Paid,home_improvement,9.34,5,778,776,4,8314,67.08,18,31
+31316,36 months,13.23,627.34,F,7 years,OTHER,43044.06,Default,small_business,0.32,4,631,696,0,39282,50.66,19,49
+21036,36 months,10.8,929.08,F,3 years,MORTGAGE,91684.05,Charged Off,credit_card,24.19,7,674,679,4,17226,37.83,21,32
+26631,36 months,14.28,650.59,C,8 years,OWN,199834.64,Fully Paid,home_improvement,15.79,0,788,733,0,10873,90.1,42,3
+14697,36 months,16.86,715.82,B,9 years,OWN,56618.35,Fully Paid,credit_card,27.63,5,844,667,5,18792,59.8,41,9
+18082,36 months,24.23,644.81,E,4 years,OWN,184686.95,Fully Paid,home_improvement,28.0,2,814,628,5,3195,87.07,48,10
+14640,36 months,5.66,200.58,G,6 years,OTHER,68191.45,Default,credit_card,18.04,2,711,779,9,6078,53.0,6,17
+7486,36 months,17.15,103.8,A,7 years,RENT,123890.55,Fully Paid,home_improvement,27.58,6,701,612,5,21511,62.95,32,42
+6846,60 months,13.34,789.25,G,1 year,OTHER,154194.81,Charged Off,major_purchase,7.68,2,678,732,3,28893,12.8,40,26
+7547,60 months,10.14,850.39,B,1 year,RENT,64677.14,Charged Off,home_improvement,22.22,2,814,780,0,7265,69.4,23,14
+2441,60 months,5.77,768.47,F,< 1 year,RENT,186289.91,Default,credit_card,6.38,4,637,709,0,46491,66.85,18,2
+11406,60 months,12.85,652.98,E,5 years,OTHER,170019.59,Default,small_business,7.24,6,797,613,8,16483,22.27,13,20
+2593,36 months,16.62,898.58,G,1 year,OWN,122946.17,Charged Off,credit_card,29.47,1,749,717,8,45692,80.62,38,14
+36678,36 months,21.4,641.73,A,9 years,RENT,49424.5,Charged Off,credit_card,0.53,6,777,664,3,40709,5.06,37,11
+37208,36 months,6.69,265.42,D,2 years,MORTGAGE,180429.38,Fully Paid,credit_card,7.26,0,810,643,6,49714,13.2,15,44
+1348,60 months,23.86,833.76,F,6 years,OWN,155404.32,Default,debt_consolidation,1.9,3,714,680,1,41491,47.91,45,25
+29199,60 months,14.64,921.45,E,8 years,MORTGAGE,126958.67,Default,major_purchase,22.1,5,612,795,4,33567,69.69,16,9
+17970,60 months,23.1,69.52,C,7 years,MORTGAGE,164120.65,Charged Off,major_purchase,2.83,1,825,638,6,26299,74.93,21,16
+12743,60 months,21.72,136.89,B,10+ years,RENT,34372.91,Fully Paid,home_improvement,13.99,9,707,702,0,39454,81.72,48,3
+2549,60 months,11.83,385.95,F,7 years,OWN,132132.9,Default,home_improvement,7.26,7,777,752,0,20187,49.19,43,22
+9554,36 months,14.79,653.03,E,2 years,OWN,167317.35,Default,major_purchase,25.89,0,675,819,3,1316,12.37,28,48
+17225,60 months,23.75,787.08,B,6 years,MORTGAGE,35963.58,Default,debt_consolidation,9.59,0,720,731,4,27776,93.97,17,18
+39749,60 months,10.27,465.09,C,1 year,MORTGAGE,102744.02,Default,small_business,12.09,3,626,766,9,23847,39.21,19,10
+32664,60 months,7.33,302.47,F,< 1 year,MORTGAGE,104239.82,Charged Off,major_purchase,19.52,9,666,659,8,9732,37.72,17,14
+22950,36 months,6.6,791.78,A,8 years,RENT,67160.62,Charged Off,home_improvement,10.25,5,799,710,2,24341,77.11,15,28
+5507,36 months,17.99,712.56,F,7 years,OTHER,63953.34,Fully Paid,credit_card,13.26,2,730,799,3,33012,34.69,43,1
+22792,60 months,16.58,473.15,A,5 years,MORTGAGE,26604.93,Fully Paid,home_improvement,2.36,7,620,609,9,26528,36.01,32,34
+7249,60 months,15.88,886.01,E,2 years,OTHER,50429.44,Fully Paid,home_improvement,29.98,2,755,830,0,32084,95.0,25,32
+21122,36 months,13.46,590.84,B,< 1 year,MORTGAGE,101992.27,Charged Off,credit_card,8.85,1,665,683,4,42684,48.57,48,31
+9167,60 months,12.0,240.06,B,6 years,MORTGAGE,181090.77,Default,major_purchase,18.41,9,608,637,7,31783,86.18,22,3
+16830,36 months,22.39,754.57,C,6 years,RENT,71454.79,Fully Paid,small_business,2.64,4,820,634,8,17126,72.29,28,40
+30076,60 months,22.98,694.08,E,< 1 year,OTHER,109395.0,Default,small_business,15.71,2,819,609,8,9540,67.13,48,33
+13485,60 months,7.04,276.56,A,6 years,OWN,38021.33,Default,credit_card,1.05,4,607,639,7,49037,83.72,34,26
+27735,36 months,11.14,319.22,C,1 year,MORTGAGE,49907.94,Fully Paid,credit_card,8.99,4,674,623,9,12767,55.21,6,43
+6713,60 months,19.0,915.51,D,10+ years,OWN,67448.12,Charged Off,home_improvement,13.71,7,847,680,7,23868,41.07,27,8
+20256,36 months,11.18,946.09,B,6 years,OTHER,166329.7,Fully Paid,small_business,5.69,9,780,797,0,21423,18.08,8,1
+29418,36 months,14.52,403.73,F,4 years,OTHER,133202.09,Fully Paid,home_improvement,6.69,7,814,604,0,22324,89.35,14,32
+39795,60 months,19.66,410.67,A,8 years,RENT,89778.3,Fully Paid,credit_card,10.36,1,769,835,0,47934,6.18,22,28
+11055,60 months,21.77,637.56,A,4 years,OTHER,183608.96,Charged Off,debt_consolidation,25.02,0,643,731,8,4101,75.35,13,31
+3464,36 months,8.48,586.0,C,4 years,OTHER,64420.7,Fully Paid,debt_consolidation,8.0,9,604,817,1,40259,0.82,24,22
+28218,60 months,23.91,321.03,B,8 years,OTHER,55719.99,Fully Paid,home_improvement,26.4,2,700,811,7,45968,74.36,9,41
+12991,36 months,11.45,540.33,C,7 years,OWN,177202.58,Default,credit_card,23.79,5,809,758,1,49,2.61,20,14
+32712,36 months,19.16,429.29,E,< 1 year,RENT,160249.98,Charged Off,major_purchase,24.07,1,808,681,9,14984,45.7,16,40
+10026,36 months,7.77,553.06,D,8 years,OWN,176736.71,Default,credit_card,26.77,1,802,676,7,2899,16.95,8,10
+27508,36 months,7.18,761.44,F,8 years,OTHER,178352.21,Default,debt_consolidation,22.71,5,648,823,0,46190,96.12,6,38
+13711,36 months,23.49,711.14,B,5 years,OWN,140052.28,Fully Paid,credit_card,24.79,1,678,703,7,14653,2.98,25,7
+35884,36 months,23.93,173.46,A,10+ years,OWN,27923.48,Default,credit_card,8.31,5,668,819,8,30547,13.66,17,41
+33019,36 months,9.32,205.45,E,9 years,OTHER,33915.53,Fully Paid,major_purchase,6.31,0,800,771,9,16325,41.33,13,41
+10169,60 months,24.11,509.37,C,5 years,RENT,77505.6,Fully Paid,credit_card,15.13,2,769,774,3,5731,62.79,11,46
+15638,36 months,10.53,663.44,F,1 year,OTHER,123836.1,Charged Off,credit_card,4.76,9,797,760,5,16909,92.13,36,9
+38547,60 months,14.15,727.64,B,1 year,MORTGAGE,173306.72,Fully Paid,credit_card,10.47,3,609,825,9,23347,13.11,8,4
+2767,60 months,11.89,161.77,G,2 years,OWN,173567.89,Charged Off,major_purchase,23.06,5,636,701,1,1232,30.1,29,15
+2462,36 months,6.83,210.84,E,< 1 year,OTHER,90398.28,Charged Off,small_business,2.63,0,800,804,8,44955,21.28,43,36
+23578,60 months,13.65,848.29,A,9 years,OTHER,72715.47,Charged Off,home_improvement,29.24,4,775,639,4,14387,42.51,27,41
+39640,60 months,22.19,245.38,E,5 years,OWN,67198.09,Default,major_purchase,3.89,6,775,746,6,2751,82.98,30,9
+13438,36 months,19.48,237.26,G,1 year,OWN,32159.67,Default,home_improvement,13.56,8,773,737,5,30003,0.35,43,15
+36263,36 months,9.51,157.2,E,1 year,OWN,117399.9,Charged Off,credit_card,0.84,5,741,664,3,674,78.35,6,31
+32896,60 months,23.25,660.48,B,7 years,OTHER,196192.47,Default,small_business,23.56,5,667,620,3,31202,89.99,12,2
+17621,60 months,12.99,695.52,F,1 year,OWN,55137.36,Default,major_purchase,9.1,0,821,657,7,38154,5.4,8,19
+35529,36 months,18.32,580.87,B,1 year,RENT,57649.78,Default,small_business,11.76,5,788,602,2,2180,3.43,8,4
+30892,36 months,16.76,946.93,F,4 years,MORTGAGE,193768.67,Charged Off,debt_consolidation,8.6,6,728,724,6,14604,68.21,40,29
+26856,60 months,12.72,869.79,A,7 years,MORTGAGE,95814.61,Fully Paid,debt_consolidation,0.05,3,685,734,9,5102,90.4,29,43
+12715,60 months,7.35,255.45,E,3 years,OWN,196334.66,Default,debt_consolidation,23.63,4,634,833,5,32406,76.68,31,47
+36883,36 months,17.07,349.91,A,2 years,MORTGAGE,194844.34,Charged Off,small_business,21.23,2,681,685,1,16553,87.19,34,39
+30244,36 months,17.44,906.61,C,7 years,OWN,151254.73,Fully Paid,major_purchase,19.88,3,730,685,1,41066,89.37,17,20
+19940,36 months,15.71,117.97,F,2 years,MORTGAGE,95508.65,Charged Off,major_purchase,7.84,9,682,614,5,5069,50.45,25,20
+33202,36 months,15.79,848.48,E,6 years,RENT,41135.89,Default,credit_card,12.5,3,748,845,4,8972,87.18,44,29
+29821,60 months,6.7,158.2,C,4 years,MORTGAGE,193764.24,Fully Paid,major_purchase,21.48,8,695,836,4,35337,61.47,27,46
+4578,60 months,5.82,54.47,B,6 years,OWN,112175.15,Charged Off,home_improvement,16.26,2,713,629,7,46844,94.55,27,49
+5566,60 months,12.99,191.78,D,4 years,OWN,57215.19,Charged Off,credit_card,24.2,7,708,625,7,38879,59.19,43,46
+28968,36 months,24.44,961.33,F,2 years,MORTGAGE,80799.79,Charged Off,debt_consolidation,12.14,2,759,823,7,25204,29.58,11,13
+11315,60 months,5.42,188.89,B,5 years,RENT,43206.77,Fully Paid,home_improvement,19.91,8,723,648,5,30363,85.39,38,28
+5414,36 months,9.09,788.19,A,6 years,OWN,157100.47,Charged Off,major_purchase,24.51,2,684,848,2,31320,70.94,49,12
+20150,60 months,22.49,459.46,B,3 years,OWN,29054.67,Charged Off,credit_card,7.62,9,693,680,5,21904,92.24,19,2
+17633,36 months,7.25,322.6,D,5 years,MORTGAGE,67015.84,Fully Paid,major_purchase,20.53,0,728,680,0,38723,51.29,44,22
+4204,36 months,22.3,889.12,F,2 years,MORTGAGE,179777.29,Charged Off,debt_consolidation,7.42,5,633,639,9,40855,10.74,44,14
+25832,60 months,19.86,177.47,B,8 years,RENT,143152.41,Fully Paid,home_improvement,24.15,2,828,641,1,13918,54.62,25,15
+15492,60 months,5.08,243.21,A,7 years,MORTGAGE,26955.55,Default,small_business,10.8,6,656,765,2,49654,44.94,14,38
+35301,60 months,20.65,183.75,E,3 years,MORTGAGE,24602.08,Default,credit_card,0.82,9,777,612,5,11405,99.89,8,48
+37696,36 months,21.74,785.51,B,6 years,MORTGAGE,119311.99,Fully Paid,home_improvement,1.57,3,756,813,4,11255,99.91,26,17
+1109,36 months,11.73,255.88,F,3 years,OTHER,128466.98,Default,small_business,11.35,5,837,718,0,22106,96.35,11,33
+1913,60 months,9.51,312.45,E,1 year,MORTGAGE,182410.99,Fully Paid,credit_card,1.82,7,782,775,6,18606,7.95,21,25
+7894,60 months,13.84,469.15,F,8 years,MORTGAGE,33311.77,Default,major_purchase,26.04,4,848,626,9,5790,96.18,5,9
+3752,36 months,14.58,773.66,B,7 years,OTHER,182289.74,Default,small_business,7.97,4,756,673,2,13566,11.3,13,48
+22873,60 months,23.1,810.39,C,10+ years,OTHER,152509.41,Charged Off,small_business,3.79,0,747,660,2,8074,1.0,34,17
+33333,36 months,15.05,506.44,D,2 years,MORTGAGE,20529.68,Fully Paid,credit_card,1.49,9,736,682,1,35732,7.77,11,43
+25681,60 months,14.9,865.78,F,9 years,RENT,67080.12,Default,debt_consolidation,14.51,9,848,801,8,48606,28.59,13,40
+26677,60 months,10.66,676.41,F,< 1 year,MORTGAGE,177126.07,Charged Off,major_purchase,20.23,0,758,711,2,12716,65.95,32,46
+14232,36 months,15.35,65.27,B,8 years,OTHER,190630.02,Charged Off,home_improvement,2.41,5,658,770,2,30688,23.7,12,37
+33372,36 months,23.32,597.78,C,7 years,MORTGAGE,21170.74,Fully Paid,home_improvement,26.37,6,708,674,8,23389,21.54,5,41
+9289,36 months,10.49,653.18,C,10+ years,RENT,35647.59,Fully Paid,debt_consolidation,19.73,2,610,813,6,10273,96.72,31,39
+14800,36 months,6.85,384.34,F,5 years,MORTGAGE,184766.37,Charged Off,major_purchase,14.42,5,634,711,8,4759,51.86,14,13
+17232,36 months,15.76,919.04,E,7 years,RENT,157199.97,Charged Off,home_improvement,16.71,5,620,633,3,47220,66.78,34,15
+39159,60 months,5.34,980.23,D,10+ years,OWN,79583.79,Fully Paid,major_purchase,22.87,3,737,667,9,20701,82.36,29,8
+6600,36 months,14.15,856.75,D,8 years,MORTGAGE,142004.11,Fully Paid,major_purchase,9.36,2,781,726,1,42175,68.62,12,42
+36217,36 months,23.95,644.42,G,3 years,OWN,157608.71,Charged Off,home_improvement,25.33,1,826,686,9,38224,3.98,39,26
+27938,36 months,11.41,774.03,B,6 years,OWN,151922.3,Charged Off,small_business,7.2,4,661,659,5,19995,59.73,35,36
+31762,36 months,13.9,669.3,C,10+ years,OWN,72936.01,Fully Paid,home_improvement,29.15,6,835,725,3,5890,90.91,20,44
+19512,60 months,19.95,676.52,A,9 years,OWN,68595.88,Charged Off,small_business,8.92,5,800,816,4,14827,83.39,11,13
+37868,60 months,19.67,480.88,D,2 years,OTHER,195057.01,Charged Off,credit_card,5.3,6,754,835,3,9318,84.45,29,15
+20661,36 months,22.67,603.73,D,6 years,MORTGAGE,178181.57,Charged Off,credit_card,25.75,0,607,797,2,49988,46.56,10,11
+3389,60 months,14.52,687.13,G,10+ years,OWN,47389.11,Charged Off,credit_card,7.52,4,715,784,9,6422,91.75,29,35
+33502,60 months,14.41,639.67,F,3 years,OTHER,56571.02,Default,small_business,23.72,8,735,779,3,15277,29.4,39,15
+2221,36 months,6.73,850.33,B,1 year,MORTGAGE,154223.85,Fully Paid,home_improvement,16.75,1,632,683,1,35428,69.23,43,23
+26007,36 months,8.42,335.56,D,1 year,RENT,182731.86,Charged Off,debt_consolidation,17.7,9,797,786,7,3300,2.88,24,13
+22273,60 months,18.19,414.1,B,9 years,MORTGAGE,71703.53,Charged Off,credit_card,12.31,3,630,654,9,24515,55.61,40,26
+20938,36 months,22.83,211.02,C,10+ years,MORTGAGE,20788.62,Default,credit_card,10.67,0,719,766,1,10786,25.37,29,33
+10340,36 months,11.37,304.55,C,6 years,OTHER,61134.21,Charged Off,credit_card,10.18,0,838,660,9,7126,98.08,40,26
+7324,36 months,13.58,507.52,E,7 years,RENT,103919.0,Charged Off,small_business,4.04,3,829,842,5,36348,61.11,49,5
+2766,60 months,11.31,66.2,G,7 years,OTHER,56513.38,Default,debt_consolidation,5.95,8,706,789,3,7106,67.69,11,29
+25597,60 months,14.97,122.27,F,< 1 year,MORTGAGE,85910.65,Charged Off,credit_card,17.21,1,640,756,2,18267,24.81,11,26
+31586,60 months,7.38,628.57,E,7 years,RENT,127859.68,Default,credit_card,24.35,6,681,672,9,18066,13.12,35,40
+31846,36 months,6.46,549.89,F,2 years,RENT,50622.83,Fully Paid,credit_card,15.58,0,681,828,7,45801,11.9,25,19
+38395,36 months,14.65,431.38,F,8 years,OTHER,129222.89,Default,small_business,10.89,7,818,701,5,32413,24.54,6,48
+29152,36 months,14.91,345.96,A,2 years,RENT,123494.29,Charged Off,small_business,19.6,5,746,604,5,37322,87.92,37,11
+34451,36 months,21.79,79.74,G,1 year,MORTGAGE,135861.95,Fully Paid,credit_card,0.91,2,718,773,9,6,41.4,42,42
+27568,60 months,10.04,856.75,E,< 1 year,MORTGAGE,45874.49,Charged Off,debt_consolidation,21.4,7,810,643,1,11366,13.11,40,37
+34795,36 months,17.65,643.91,A,3 years,MORTGAGE,123357.6,Default,major_purchase,8.19,2,832,756,9,21081,95.33,7,36
+3895,60 months,12.01,121.49,D,7 years,RENT,80881.8,Charged Off,small_business,15.2,2,820,745,1,34145,15.72,26,5
+20943,60 months,15.92,965.15,A,3 years,OTHER,172304.17,Default,small_business,23.16,9,706,764,1,19850,53.34,29,22
+30442,36 months,23.88,495.13,C,5 years,MORTGAGE,182883.75,Fully Paid,major_purchase,19.13,8,847,837,4,32376,97.19,18,37
+31055,60 months,20.35,432.4,D,6 years,OWN,120943.32,Fully Paid,major_purchase,23.87,3,838,823,8,47211,14.67,38,2
+4492,60 months,20.68,325.01,B,3 years,OWN,136596.84,Default,credit_card,9.79,0,634,662,0,1350,20.65,11,6
+36674,36 months,14.72,406.75,C,2 years,MORTGAGE,175626.49,Default,major_purchase,0.53,4,822,842,4,514,63.37,41,3
+10318,60 months,11.47,802.19,D,7 years,OWN,71527.93,Charged Off,major_purchase,3.59,6,703,812,2,36295,49.84,23,41
+24834,60 months,9.24,705.87,C,7 years,MORTGAGE,124071.98,Fully Paid,debt_consolidation,18.68,5,753,682,2,45447,24.84,25,7
+29702,60 months,16.74,672.08,C,5 years,RENT,91741.32,Default,home_improvement,3.22,7,615,621,1,11031,53.71,13,40
+6422,36 months,6.57,616.76,E,8 years,RENT,136785.15,Default,small_business,1.41,3,836,749,0,1246,47.39,34,23
+31627,60 months,20.81,620.96,B,9 years,OTHER,124642.79,Fully Paid,credit_card,28.71,5,730,622,3,19389,50.6,19,4
+9885,36 months,12.55,687.94,G,< 1 year,OTHER,121525.41,Default,home_improvement,21.88,3,734,798,6,43959,25.02,47,35
+37179,36 months,10.25,979.28,G,< 1 year,OTHER,28318.33,Default,small_business,6.47,4,819,668,0,39788,23.51,24,14
+3701,36 months,12.05,229.36,G,10+ years,OTHER,153878.67,Default,credit_card,7.72,2,665,684,3,29229,19.84,27,43
+23153,36 months,12.63,187.84,B,9 years,OWN,133694.39,Fully Paid,debt_consolidation,27.76,3,793,630,2,14964,8.53,6,19
+5975,36 months,6.59,366.53,F,10+ years,MORTGAGE,72779.8,Fully Paid,major_purchase,7.06,9,641,756,6,16180,57.97,47,10
+35855,60 months,20.05,472.19,G,3 years,RENT,151156.66,Charged Off,credit_card,19.31,0,752,676,6,27245,31.56,46,28
+1523,60 months,18.2,310.02,G,10+ years,RENT,75874.91,Default,credit_card,12.35,5,673,750,1,44732,35.15,10,26
+18664,36 months,24.54,137.04,B,3 years,MORTGAGE,151988.5,Default,home_improvement,16.28,7,697,684,9,39293,87.08,44,28
+29329,36 months,22.72,936.03,C,3 years,MORTGAGE,143985.19,Default,credit_card,19.38,1,804,775,1,29836,1.78,10,25
+5422,60 months,8.24,968.06,B,5 years,OTHER,77773.25,Fully Paid,debt_consolidation,7.73,5,781,704,8,1829,71.89,40,35
+1696,60 months,12.57,585.72,D,7 years,RENT,30868.68,Charged Off,debt_consolidation,17.42,1,706,687,4,8505,91.87,5,6
+30712,60 months,20.41,95.24,E,10+ years,RENT,143801.29,Fully Paid,home_improvement,4.36,2,744,699,6,39447,9.22,42,28
+23556,60 months,20.74,720.07,B,6 years,RENT,29295.52,Charged Off,credit_card,20.52,4,830,617,6,6510,27.73,38,15
+4303,36 months,11.81,862.79,G,8 years,OTHER,40208.88,Charged Off,home_improvement,3.44,8,720,735,7,43683,24.42,12,2
+36511,36 months,16.37,680.09,D,7 years,RENT,68633.08,Charged Off,credit_card,0.97,8,748,610,5,44955,44.36,29,13
+1417,36 months,14.53,963.74,F,7 years,RENT,105904.41,Fully Paid,small_business,3.61,0,776,649,5,6265,32.84,33,24
+22133,36 months,20.6,705.21,B,< 1 year,OWN,180559.74,Default,major_purchase,26.71,6,636,782,4,21671,83.86,13,30
+6470,36 months,5.38,961.67,A,1 year,OWN,122615.35,Default,debt_consolidation,12.67,5,657,622,7,33213,22.22,35,34
+32761,60 months,24.22,152.81,D,10+ years,OTHER,167695.98,Default,major_purchase,19.11,5,700,688,8,14458,93.16,10,35
+35533,60 months,11.2,927.2,A,7 years,OTHER,93110.69,Default,debt_consolidation,27.33,6,721,617,4,15961,11.48,30,37
+37128,60 months,11.07,594.21,G,< 1 year,MORTGAGE,98600.67,Default,credit_card,25.86,2,772,765,2,4729,29.84,45,8
+5222,36 months,10.93,591.28,F,1 year,RENT,87299.96,Default,debt_consolidation,2.87,6,655,725,6,14489,14.78,34,46
+23844,36 months,14.05,820.92,A,8 years,OWN,45721.76,Fully Paid,major_purchase,25.86,4,664,811,7,14700,35.05,33,3
+6771,36 months,21.23,562.6,B,4 years,OTHER,95338.52,Fully Paid,home_improvement,1.86,4,717,821,4,36780,83.91,7,8
+33374,60 months,20.05,602.58,G,5 years,OWN,48055.39,Fully Paid,debt_consolidation,14.19,2,719,740,6,40528,80.41,27,40
+17010,36 months,21.37,476.57,D,9 years,RENT,176589.61,Charged Off,small_business,19.38,1,625,683,8,42474,86.0,47,22
+32201,60 months,15.53,407.65,F,2 years,OWN,166274.08,Fully Paid,home_improvement,4.81,5,819,726,8,18027,29.59,33,28
+39314,60 months,20.41,161.11,C,1 year,MORTGAGE,74992.25,Default,home_improvement,15.59,7,813,784,7,31109,51.65,7,28
+28736,36 months,8.71,339.52,F,< 1 year,OTHER,100098.86,Charged Off,small_business,18.5,9,720,667,9,4675,63.52,14,7
+12754,36 months,22.01,82.41,B,1 year,OTHER,156824.28,Charged Off,credit_card,3.98,7,685,660,1,11218,95.81,21,15
+2228,60 months,8.94,196.26,G,3 years,OWN,24292.46,Charged Off,home_improvement,17.84,0,684,610,2,43128,9.96,37,10
+6528,36 months,13.33,68.31,A,< 1 year,OWN,71643.11,Charged Off,major_purchase,14.1,9,613,769,5,26731,17.45,11,29
+28503,60 months,13.44,545.87,G,8 years,RENT,147599.29,Fully Paid,small_business,17.06,0,803,821,9,2734,75.47,15,36
+36094,60 months,21.08,527.22,G,2 years,OTHER,124408.06,Default,home_improvement,29.38,3,741,735,5,189,44.7,32,8
+24388,60 months,11.82,557.61,E,< 1 year,RENT,138488.84,Fully Paid,major_purchase,19.55,9,749,661,4,23436,46.39,39,11
+14334,60 months,5.28,597.48,B,10+ years,MORTGAGE,53705.75,Charged Off,debt_consolidation,13.53,0,673,831,2,17057,2.0,26,18
+4949,60 months,21.37,986.28,G,7 years,MORTGAGE,67511.88,Default,debt_consolidation,16.8,3,798,809,6,36551,27.19,36,3
+3279,36 months,11.96,254.67,F,10+ years,RENT,130622.4,Fully Paid,major_purchase,23.4,4,823,833,9,47342,84.73,10,42
+5596,60 months,7.91,461.17,B,< 1 year,MORTGAGE,33543.6,Charged Off,major_purchase,19.18,5,690,752,3,20335,5.33,27,17
+2981,36 months,24.82,615.61,E,4 years,OTHER,24407.35,Default,small_business,16.11,3,807,768,9,33006,80.99,6,44
+13099,36 months,18.36,783.59,E,7 years,OWN,149396.81,Fully Paid,home_improvement,1.24,3,652,618,9,18384,76.61,6,27
+5068,36 months,15.56,110.0,F,5 years,RENT,97422.79,Default,home_improvement,2.63,1,773,772,9,26576,44.01,48,31
+6319,60 months,11.95,575.76,G,10+ years,OTHER,183531.65,Charged Off,home_improvement,4.4,3,685,690,8,24237,8.12,29,12
+10650,36 months,6.03,160.44,B,< 1 year,MORTGAGE,90601.22,Default,home_improvement,25.74,7,657,687,0,41121,36.53,13,16
+34246,60 months,16.11,746.28,G,1 year,OWN,63941.44,Fully Paid,credit_card,0.36,2,679,700,5,22638,21.49,22,39
+23610,36 months,15.07,589.82,E,8 years,MORTGAGE,199319.96,Fully Paid,small_business,5.33,0,797,636,6,6317,36.12,42,17
+22111,36 months,6.68,561.62,A,7 years,OTHER,136638.25,Charged Off,major_purchase,28.01,5,737,841,7,48057,77.0,25,39
+9724,36 months,11.98,652.41,G,8 years,OWN,143539.98,Default,debt_consolidation,28.26,5,680,820,5,13854,39.85,8,18
+27679,60 months,13.86,320.4,C,3 years,OWN,104976.73,Default,debt_consolidation,22.5,7,753,725,8,10024,49.52,49,19
+9650,60 months,22.44,856.81,A,3 years,RENT,85937.3,Fully Paid,home_improvement,22.25,4,694,638,1,33774,49.89,9,38
+29775,60 months,22.51,458.68,D,3 years,RENT,196255.63,Fully Paid,small_business,23.49,6,663,701,8,25737,19.35,11,27
+31626,36 months,23.48,992.21,E,6 years,OWN,45546.61,Fully Paid,debt_consolidation,28.81,9,688,757,5,14186,89.76,36,44
+25576,36 months,19.77,548.09,C,3 years,OWN,49641.83,Default,credit_card,4.08,1,679,804,1,30888,96.27,27,16
+15331,36 months,6.77,935.35,G,1 year,OTHER,151923.73,Default,small_business,26.06,5,775,668,8,49650,11.93,8,35
+38544,36 months,9.79,999.76,D,3 years,RENT,123528.87,Default,home_improvement,3.93,9,649,633,5,1937,62.03,31,20
+17401,36 months,5.97,406.34,D,5 years,MORTGAGE,137992.79,Charged Off,home_improvement,16.23,8,801,602,2,12263,82.44,13,12
+26681,60 months,18.12,544.83,G,3 years,RENT,26330.47,Fully Paid,home_improvement,14.06,8,691,803,0,196,43.63,46,19
+39970,36 months,23.7,402.06,B,9 years,MORTGAGE,29783.25,Fully Paid,small_business,21.67,9,822,790,6,46786,61.73,20,13
+3145,36 months,20.27,300.96,A,3 years,OTHER,43433.89,Fully Paid,home_improvement,26.62,2,677,661,2,6507,68.23,44,48
+14043,36 months,16.75,192.02,F,1 year,OWN,153242.48,Default,small_business,26.62,8,778,706,1,7966,58.12,34,22
+39294,60 months,18.84,765.0,G,10+ years,OTHER,48672.59,Fully Paid,credit_card,29.55,0,655,769,8,47575,84.12,6,12
+4318,36 months,14.28,688.53,D,8 years,MORTGAGE,178058.72,Fully Paid,home_improvement,2.24,3,760,801,7,17082,19.19,28,12
+20824,36 months,21.98,833.91,F,8 years,MORTGAGE,164475.76,Charged Off,home_improvement,14.31,7,841,638,9,17885,75.55,19,11
+5230,36 months,13.84,420.39,G,9 years,OWN,87183.91,Fully Paid,small_business,5.91,0,794,657,9,17240,76.46,33,41
+10204,60 months,5.13,602.89,C,6 years,OWN,167158.4,Default,small_business,9.53,6,815,605,8,3901,3.22,18,37
+30727,60 months,9.92,620.86,F,< 1 year,MORTGAGE,103282.24,Default,debt_consolidation,9.53,1,645,756,3,39970,22.97,26,25
+11883,36 months,16.24,597.51,G,8 years,MORTGAGE,128327.86,Fully Paid,major_purchase,26.52,9,698,758,6,7789,36.9,32,23
+18183,36 months,11.46,56.17,F,8 years,OWN,136153.42,Default,debt_consolidation,11.26,4,774,761,0,35056,0.45,36,12
+8275,60 months,13.33,211.75,A,1 year,OTHER,29184.61,Fully Paid,small_business,18.0,5,770,795,2,11122,83.47,20,14
+14637,60 months,16.64,755.39,D,3 years,RENT,131133.22,Charged Off,small_business,8.98,2,804,662,1,16138,51.94,21,22
+39734,36 months,6.33,345.82,B,4 years,MORTGAGE,166764.29,Charged Off,small_business,20.13,2,821,729,3,49081,49.67,15,39
+35031,60 months,10.82,763.77,E,< 1 year,RENT,199330.15,Default,credit_card,24.38,0,732,617,7,42887,88.03,28,32
+26458,60 months,16.67,673.49,B,2 years,RENT,152558.93,Fully Paid,small_business,13.03,0,694,708,7,1164,49.65,16,40
+9468,36 months,20.9,696.04,E,8 years,MORTGAGE,88923.66,Fully Paid,debt_consolidation,3.54,9,757,604,0,26889,63.49,31,16
+37476,60 months,24.98,869.98,A,8 years,OWN,147377.98,Default,small_business,1.52,9,676,812,3,21237,77.1,35,46
+20823,60 months,7.1,915.76,E,8 years,OTHER,151327.9,Default,small_business,29.33,2,726,622,6,19727,57.17,30,13
+29322,36 months,19.85,765.17,B,2 years,RENT,119443.84,Charged Off,small_business,29.34,6,633,689,5,32357,82.15,18,39
+9945,36 months,18.98,952.33,F,6 years,OWN,196246.73,Charged Off,home_improvement,4.35,8,794,614,6,25902,76.23,45,43
+22340,60 months,18.8,631.76,D,6 years,OWN,171670.44,Charged Off,credit_card,18.21,5,712,645,9,25338,89.47,36,4
+35844,36 months,7.16,91.42,A,3 years,RENT,52141.91,Default,debt_consolidation,5.38,3,791,678,5,1438,61.72,9,39
+4592,36 months,10.33,607.75,E,7 years,RENT,73441.39,Default,small_business,19.53,3,613,787,3,45142,14.27,31,45
+16738,60 months,7.98,627.91,D,4 years,OTHER,94853.44,Charged Off,credit_card,8.69,5,778,714,9,18035,54.03,31,41
+2118,36 months,19.86,997.84,B,7 years,OWN,76694.31,Default,debt_consolidation,25.83,6,628,691,9,12705,44.64,18,3
+39292,36 months,18.58,239.13,B,4 years,OTHER,130952.86,Fully Paid,credit_card,10.47,4,738,767,1,29808,3.82,32,29
+14995,60 months,18.04,263.58,G,< 1 year,MORTGAGE,58000.94,Default,credit_card,15.12,4,752,609,9,42413,59.38,6,46
+20343,36 months,21.62,212.03,G,< 1 year,RENT,76597.39,Default,major_purchase,26.17,4,775,843,1,42156,88.05,47,31
+29029,36 months,20.9,146.06,E,1 year,OTHER,44017.05,Fully Paid,debt_consolidation,5.53,2,729,737,0,7912,56.93,5,25
+33729,36 months,14.7,953.15,A,5 years,RENT,113286.55,Charged Off,debt_consolidation,2.0,8,846,782,8,28449,93.58,16,16
+3004,36 months,17.68,104.51,D,4 years,OTHER,177203.78,Fully Paid,debt_consolidation,6.64,9,842,709,6,6478,22.25,6,43
+3515,36 months,19.07,644.19,E,1 year,RENT,123217.79,Charged Off,major_purchase,0.19,2,820,626,1,22028,86.15,18,15
+38550,60 months,23.51,495.17,G,7 years,MORTGAGE,23531.35,Default,credit_card,28.42,4,617,648,6,24303,5.92,12,47
+38917,36 months,20.48,727.23,G,9 years,MORTGAGE,141490.96,Default,major_purchase,14.81,9,758,670,9,26735,95.39,29,47
+7517,60 months,19.13,701.4,E,1 year,MORTGAGE,52477.3,Default,major_purchase,19.78,6,849,746,0,11939,10.52,46,30
+30523,36 months,19.44,939.4,D,1 year,RENT,112670.76,Fully Paid,debt_consolidation,28.56,7,661,610,1,36646,37.03,44,21
+16419,36 months,15.03,493.78,E,8 years,MORTGAGE,132623.46,Default,debt_consolidation,21.58,7,832,675,4,44749,19.32,30,14
+15595,60 months,6.62,688.46,F,7 years,MORTGAGE,57389.04,Charged Off,home_improvement,6.65,0,653,818,4,27707,86.13,18,20
+39276,36 months,23.53,642.03,G,1 year,MORTGAGE,67389.48,Charged Off,debt_consolidation,15.82,8,722,629,8,13419,69.35,44,5
+9003,60 months,8.09,898.65,F,4 years,RENT,141896.71,Default,home_improvement,9.96,2,633,614,6,49852,77.03,35,34
+17508,36 months,15.43,947.15,C,6 years,RENT,154325.77,Charged Off,small_business,14.32,1,639,769,2,16206,21.25,30,14
+23965,60 months,21.16,393.4,E,4 years,OTHER,182692.14,Fully Paid,credit_card,10.68,1,672,735,3,37643,46.98,25,28
+37330,36 months,21.66,970.16,G,4 years,RENT,150238.67,Fully Paid,debt_consolidation,7.49,3,770,716,8,5934,73.71,26,25
+29306,60 months,11.11,874.53,F,5 years,RENT,71331.08,Fully Paid,home_improvement,22.68,8,824,702,6,37295,64.97,19,32
+1231,60 months,11.33,133.58,C,8 years,RENT,184708.37,Default,credit_card,13.92,3,611,605,2,10941,56.43,12,26
+1144,60 months,22.9,77.86,G,4 years,MORTGAGE,199312.82,Default,debt_consolidation,25.59,7,637,844,4,8224,12.23,43,37
+7551,60 months,17.96,461.68,C,< 1 year,RENT,165048.71,Default,credit_card,13.72,3,674,629,2,35883,50.31,11,9
+30775,36 months,6.1,587.77,G,< 1 year,OWN,105142.76,Default,major_purchase,11.85,5,827,722,8,47719,59.88,47,46
+15534,36 months,8.74,629.46,F,4 years,OTHER,114004.52,Default,small_business,4.06,8,842,741,8,4149,80.31,49,23
+29743,36 months,11.71,259.71,A,6 years,MORTGAGE,29553.23,Default,debt_consolidation,16.02,3,793,800,7,5167,20.25,22,38
+24366,60 months,20.48,491.6,A,4 years,RENT,26063.81,Charged Off,major_purchase,22.2,4,688,628,6,16820,7.35,12,1
+34588,36 months,22.28,696.65,G,10+ years,MORTGAGE,47934.99,Fully Paid,debt_consolidation,17.37,3,759,668,2,40079,12.7,34,48
+27296,60 months,22.04,672.93,G,2 years,RENT,94387.46,Fully Paid,debt_consolidation,2.49,2,778,634,0,40546,43.43,18,21
+5043,36 months,7.48,972.31,D,2 years,OWN,69760.56,Default,credit_card,15.89,4,731,839,7,31370,47.03,13,26
+25297,60 months,11.06,446.02,C,4 years,RENT,121540.76,Default,credit_card,12.47,5,715,695,1,24701,44.54,8,14
+25355,36 months,15.68,479.3,E,7 years,OWN,76441.74,Charged Off,home_improvement,11.37,2,757,840,5,39022,62.66,5,22
+37874,36 months,17.02,294.78,E,7 years,MORTGAGE,159377.95,Default,major_purchase,13.19,4,807,831,9,1369,15.85,20,31
+4421,36 months,5.04,84.11,G,9 years,OTHER,142699.14,Charged Off,small_business,27.1,4,714,621,2,27770,71.18,9,40
+36918,60 months,16.91,162.29,A,6 years,MORTGAGE,172431.18,Default,small_business,20.73,5,726,822,8,33387,85.8,17,41
+27556,36 months,14.0,573.62,A,6 years,MORTGAGE,64501.41,Default,debt_consolidation,12.13,9,664,702,8,18354,16.78,42,6
+7632,60 months,11.1,598.52,G,9 years,RENT,131336.75,Fully Paid,small_business,4.36,9,755,723,1,8659,56.19,17,6
+9339,36 months,5.2,693.27,A,4 years,OTHER,102914.75,Charged Off,debt_consolidation,14.39,5,762,651,1,39422,6.51,31,21
+11010,60 months,24.77,61.49,A,10+ years,OTHER,55963.12,Default,debt_consolidation,16.77,7,842,732,1,28872,40.15,10,29
+34231,60 months,17.2,715.84,E,2 years,MORTGAGE,141080.46,Default,debt_consolidation,16.59,9,679,831,6,3143,93.39,36,8
+36846,36 months,17.95,454.34,G,7 years,OTHER,26039.66,Default,credit_card,6.52,1,613,697,4,7255,32.53,21,19
+21381,36 months,7.01,359.61,C,10+ years,MORTGAGE,174121.94,Charged Off,credit_card,3.13,1,657,799,2,45430,95.7,15,4
+24334,60 months,8.75,682.55,B,7 years,OTHER,195475.36,Default,debt_consolidation,27.53,4,779,695,9,2504,64.68,7,15
+26834,36 months,8.69,589.05,D,1 year,OTHER,69357.33,Charged Off,small_business,4.57,1,727,627,6,25337,78.07,11,14
+28976,36 months,22.04,692.17,E,6 years,OTHER,56959.58,Fully Paid,small_business,12.4,9,706,772,1,46790,50.29,40,41
+15640,36 months,10.21,985.41,E,2 years,RENT,188625.99,Charged Off,small_business,15.94,4,624,668,7,4045,41.96,34,30
+18096,60 months,23.48,553.12,B,4 years,OWN,127153.95,Charged Off,credit_card,8.6,8,788,743,5,30801,85.45,49,3
+38104,36 months,7.76,625.34,D,2 years,OTHER,176535.78,Charged Off,small_business,23.78,7,619,744,5,2726,76.01,38,4
+17747,36 months,7.68,431.6,D,4 years,MORTGAGE,136199.26,Charged Off,debt_consolidation,12.62,0,636,681,9,1819,77.52,5,13
+21380,60 months,16.78,380.38,B,10+ years,OWN,23855.03,Default,credit_card,2.33,8,839,723,8,20504,24.41,48,8
+5125,36 months,21.52,429.62,E,7 years,RENT,139952.84,Default,major_purchase,13.02,5,840,733,8,33657,94.61,45,28
+26478,36 months,17.31,517.77,D,5 years,MORTGAGE,84603.94,Default,small_business,11.21,1,829,645,8,39178,82.69,23,14
+8361,60 months,22.88,493.82,B,10+ years,RENT,191224.43,Fully Paid,small_business,1.39,3,699,685,3,8698,22.11,35,42
+28657,36 months,19.56,386.74,A,4 years,OTHER,75318.46,Fully Paid,debt_consolidation,6.24,0,821,637,6,8729,94.67,21,31
+1851,60 months,13.88,109.64,E,5 years,MORTGAGE,39233.87,Default,credit_card,6.59,2,846,657,5,43030,89.78,33,6
+35097,60 months,10.3,693.0,F,< 1 year,OWN,58083.89,Default,credit_card,2.89,5,635,786,5,11416,39.54,31,31
+26770,36 months,7.86,849.63,B,5 years,OWN,109034.97,Fully Paid,major_purchase,8.41,1,628,637,5,42444,66.0,37,15
+1498,60 months,20.6,570.93,C,5 years,OTHER,92593.62,Charged Off,small_business,1.81,5,715,602,7,16656,69.12,16,37
+37659,36 months,18.81,77.17,G,9 years,OTHER,183019.61,Default,home_improvement,3.51,0,753,740,4,31877,94.85,8,48
+2934,60 months,8.65,408.54,B,2 years,OWN,144129.29,Fully Paid,small_business,10.87,0,788,814,8,22335,71.15,32,13
+38260,60 months,9.37,602.22,B,6 years,RENT,45951.77,Charged Off,major_purchase,0.72,4,810,641,6,2351,18.38,48,32
+20542,60 months,23.47,327.23,C,8 years,MORTGAGE,135469.7,Charged Off,major_purchase,7.17,9,813,799,6,15126,4.09,24,42
+18003,60 months,15.39,467.64,D,5 years,MORTGAGE,90612.13,Default,debt_consolidation,19.02,5,613,666,1,42531,64.42,32,25
+34458,36 months,22.39,93.74,D,10+ years,RENT,183948.59,Fully Paid,major_purchase,11.93,5,849,635,3,36337,67.88,5,34
+7502,36 months,14.34,914.67,D,6 years,MORTGAGE,62349.04,Fully Paid,debt_consolidation,22.37,1,636,789,0,48945,78.81,37,31
+25151,60 months,9.98,232.89,B,6 years,MORTGAGE,95278.18,Default,credit_card,22.79,9,752,721,8,13613,4.9,26,24
+2013,36 months,17.66,899.93,C,2 years,MORTGAGE,179957.28,Default,small_business,19.82,4,665,707,6,47800,50.76,42,12
+3647,60 months,17.5,799.66,B,10+ years,RENT,151029.28,Charged Off,debt_consolidation,17.47,8,662,736,7,32601,65.87,47,14
+23532,36 months,21.87,749.25,D,2 years,OWN,148347.46,Default,debt_consolidation,22.09,4,744,807,3,22358,8.44,9,32
+17721,60 months,6.43,980.24,E,1 year,OWN,47360.86,Fully Paid,small_business,29.12,1,651,837,5,34278,91.74,8,46
+27569,60 months,8.45,294.26,D,7 years,MORTGAGE,90703.93,Default,debt_consolidation,10.7,3,704,814,5,25175,71.3,34,49
+9579,60 months,12.78,331.42,A,7 years,OTHER,123403.51,Charged Off,credit_card,15.43,2,795,749,3,22955,55.72,32,29
+2126,36 months,14.25,85.16,D,2 years,MORTGAGE,124080.76,Charged Off,small_business,28.56,8,608,684,1,9165,89.26,5,46
+36274,60 months,6.75,91.63,A,4 years,OTHER,50680.16,Default,home_improvement,19.89,2,695,794,2,19134,35.38,11,41
+6108,60 months,8.08,383.45,G,10+ years,MORTGAGE,170877.21,Default,home_improvement,3.19,4,603,750,9,27840,41.86,48,23
+10792,60 months,7.16,514.44,B,< 1 year,MORTGAGE,155653.7,Fully Paid,small_business,24.31,8,774,703,9,41100,29.62,8,44
+7930,36 months,12.56,387.49,G,6 years,OWN,174563.02,Default,credit_card,17.17,6,697,848,7,16952,22.11,16,9
+39450,60 months,18.61,779.78,A,8 years,OTHER,143539.47,Default,debt_consolidation,7.98,0,787,685,1,49235,66.63,29,40
+24469,60 months,10.23,864.94,G,6 years,OWN,154988.52,Charged Off,debt_consolidation,0.43,0,806,705,7,12588,6.15,40,24
+15236,36 months,19.72,469.37,A,7 years,RENT,40632.7,Fully Paid,major_purchase,0.85,6,611,686,7,21345,78.74,36,4
+11098,60 months,8.7,306.08,A,1 year,OTHER,163069.1,Default,small_business,21.41,7,670,653,2,38329,93.86,9,16
+12531,36 months,7.25,673.96,G,< 1 year,OTHER,178711.61,Default,home_improvement,29.1,5,751,738,8,43814,87.76,16,36
+31812,36 months,21.07,681.07,F,2 years,OTHER,187807.91,Fully Paid,major_purchase,8.38,4,640,639,9,46209,28.41,34,40
+25280,60 months,9.99,82.8,B,6 years,OWN,68450.4,Charged Off,debt_consolidation,14.51,3,704,739,7,47753,0.76,49,5
+36677,60 months,21.1,927.71,C,3 years,OTHER,74555.39,Default,small_business,12.48,6,822,807,3,29165,38.46,49,21
+21909,36 months,18.56,713.27,F,< 1 year,MORTGAGE,107881.84,Charged Off,small_business,12.69,7,786,684,7,13542,84.75,19,31
+34076,60 months,7.94,362.5,F,6 years,OWN,124653.47,Fully Paid,debt_consolidation,12.07,2,670,826,0,2053,85.24,6,46
+22756,60 months,8.27,124.11,F,8 years,OWN,134705.97,Charged Off,debt_consolidation,2.78,9,824,706,9,12431,77.37,21,48
+25704,36 months,15.88,504.45,F,5 years,OTHER,148965.29,Default,major_purchase,17.44,0,625,656,1,44756,17.82,43,29
+12708,60 months,16.94,708.76,F,6 years,OTHER,98566.77,Fully Paid,home_improvement,8.91,2,683,736,9,27429,7.95,49,48
+16903,60 months,13.14,466.79,B,7 years,RENT,154725.7,Charged Off,debt_consolidation,4.08,0,657,698,2,45348,46.2,13,7
+18608,36 months,7.51,336.61,G,4 years,MORTGAGE,88225.58,Default,credit_card,9.05,2,683,712,7,24611,70.67,5,23
+26831,36 months,8.75,283.6,C,6 years,MORTGAGE,75219.7,Fully Paid,debt_consolidation,23.19,9,824,710,2,47776,39.85,37,1
+39872,60 months,22.71,57.21,A,10+ years,OTHER,176663.03,Fully Paid,credit_card,26.08,7,773,755,0,36205,63.37,30,28
+36270,60 months,13.22,330.78,G,5 years,RENT,190799.58,Fully Paid,home_improvement,12.46,5,622,682,5,23663,18.76,23,34
+38091,60 months,7.42,828.62,B,10+ years,MORTGAGE,99335.95,Fully Paid,major_purchase,0.67,6,646,773,6,30901,44.11,26,25
+18895,36 months,18.9,664.67,D,5 years,OWN,67054.87,Default,small_business,14.12,1,737,789,3,4098,37.59,42,12
+4576,36 months,12.58,144.49,D,10+ years,OWN,97932.49,Default,major_purchase,15.4,0,798,779,0,45099,10.53,17,28
+5329,36 months,12.44,975.31,D,5 years,OTHER,143914.49,Default,debt_consolidation,14.48,8,679,799,1,23269,64.36,39,46
+11524,36 months,7.3,570.77,G,10+ years,MORTGAGE,136217.01,Charged Off,credit_card,0.2,9,811,785,6,42433,24.35,33,28
+28262,60 months,6.05,77.59,C,9 years,OTHER,60897.88,Default,credit_card,22.8,9,754,665,2,718,41.38,20,43
+9926,60 months,15.16,640.97,C,7 years,RENT,130615.78,Default,credit_card,15.17,6,743,686,3,13267,71.85,31,46
+28413,36 months,18.61,621.56,A,2 years,OTHER,181255.05,Fully Paid,small_business,22.24,8,623,648,3,15821,9.87,5,33
+7552,36 months,11.6,664.1,C,6 years,OTHER,114932.57,Charged Off,debt_consolidation,28.21,0,781,667,1,43122,69.44,37,14
+35230,36 months,21.5,837.33,F,< 1 year,RENT,44811.23,Fully Paid,small_business,19.1,5,814,653,4,26295,10.44,34,29
+25858,60 months,8.08,169.73,E,9 years,MORTGAGE,22796.63,Default,major_purchase,12.83,8,666,687,2,19953,92.48,49,5
+4984,60 months,6.79,131.67,F,2 years,OTHER,56939.39,Default,small_business,13.83,5,653,601,6,13047,81.31,24,33
+6693,36 months,22.27,884.5,E,< 1 year,RENT,155638.72,Charged Off,home_improvement,8.04,3,842,637,1,46998,0.67,31,37
+2678,36 months,12.42,301.26,B,1 year,MORTGAGE,67241.16,Fully Paid,debt_consolidation,7.76,8,759,608,9,36123,88.4,12,24
+12964,60 months,8.58,969.8,E,7 years,RENT,114451.7,Charged Off,debt_consolidation,22.88,8,656,785,5,3919,51.93,24,34
+22983,60 months,23.88,681.08,A,9 years,RENT,190048.94,Default,debt_consolidation,4.98,3,761,816,0,46387,33.24,7,18
+21374,36 months,18.86,596.49,A,1 year,OWN,45599.83,Default,home_improvement,23.27,3,722,833,7,8090,48.38,28,8
+1695,36 months,15.27,515.76,G,6 years,MORTGAGE,158236.86,Charged Off,home_improvement,9.31,4,740,798,2,29799,33.68,16,40
+31056,60 months,21.03,495.28,G,10+ years,MORTGAGE,84719.56,Charged Off,credit_card,3.59,9,794,764,0,11894,0.15,41,31
+37189,36 months,5.09,506.39,C,7 years,OWN,149760.96,Default,home_improvement,28.09,0,800,751,0,26711,68.82,33,24
+2555,36 months,5.46,454.38,G,9 years,OTHER,130913.61,Default,small_business,6.57,1,612,819,4,18152,13.66,20,10
+39206,36 months,16.24,435.54,A,< 1 year,RENT,81230.94,Fully Paid,small_business,4.37,4,671,824,8,42349,65.31,6,31
+1398,36 months,20.1,402.4,B,7 years,MORTGAGE,89965.35,Charged Off,major_purchase,14.35,6,812,848,0,47272,48.49,15,35
+23765,60 months,21.5,697.81,G,8 years,OWN,177100.77,Fully Paid,credit_card,14.31,9,701,773,1,16705,76.88,9,25
+2648,36 months,12.87,583.13,E,1 year,RENT,111582.1,Fully Paid,major_purchase,4.51,8,844,745,8,28956,25.81,37,29
+37328,60 months,19.17,456.98,G,7 years,MORTGAGE,156923.61,Charged Off,home_improvement,4.05,8,832,620,4,221,87.0,20,6
+31109,36 months,23.56,987.82,B,2 years,RENT,68162.64,Charged Off,home_improvement,29.61,2,795,601,5,3189,30.06,14,2
+6757,60 months,16.89,778.81,F,8 years,OTHER,106524.68,Fully Paid,major_purchase,19.77,2,602,609,8,30049,82.1,12,28
+24411,36 months,16.11,452.09,F,5 years,MORTGAGE,118640.55,Fully Paid,major_purchase,4.61,3,693,745,7,31204,53.98,21,45
+1785,36 months,13.75,326.1,G,9 years,MORTGAGE,66480.5,Charged Off,debt_consolidation,0.62,1,824,689,6,10558,59.52,10,10
+28799,60 months,5.57,889.54,B,6 years,RENT,151187.8,Fully Paid,home_improvement,23.64,6,604,786,6,31750,12.62,25,40
+27098,36 months,6.26,796.63,B,< 1 year,OTHER,166925.33,Fully Paid,major_purchase,5.79,5,670,802,0,42748,34.85,26,11
+21839,60 months,23.94,568.88,A,2 years,RENT,145283.98,Fully Paid,credit_card,19.01,4,842,718,1,12467,94.93,12,33
+10659,60 months,16.22,131.09,C,2 years,MORTGAGE,160456.23,Charged Off,debt_consolidation,16.76,2,811,823,9,34289,64.38,24,1
+21658,36 months,12.2,272.24,F,3 years,MORTGAGE,153856.4,Fully Paid,major_purchase,11.59,1,735,739,0,25956,41.27,23,13
+7577,60 months,5.95,68.43,B,7 years,RENT,186465.06,Charged Off,home_improvement,14.38,3,773,673,8,35961,39.84,10,5
+22374,60 months,18.11,413.01,C,6 years,OWN,95776.17,Default,credit_card,12.48,2,782,711,0,41113,5.33,13,37
+32468,36 months,7.18,753.59,E,9 years,OTHER,141278.35,Charged Off,small_business,11.76,4,781,648,5,41585,0.33,17,26
+33413,60 months,22.14,444.58,F,10+ years,OWN,119159.8,Fully Paid,credit_card,29.13,0,832,689,4,9197,17.1,6,33
+28543,36 months,23.95,550.46,G,2 years,RENT,118908.51,Fully Paid,small_business,1.91,5,663,620,4,37902,74.98,21,16
+2377,36 months,9.04,70.03,D,9 years,MORTGAGE,25385.92,Default,debt_consolidation,1.62,5,719,602,6,1839,65.99,22,42
+39699,60 months,7.71,583.04,B,8 years,OTHER,144558.65,Fully Paid,small_business,0.48,5,678,672,3,43337,58.48,31,42
+37152,60 months,22.54,871.69,E,3 years,OTHER,45291.2,Default,home_improvement,17.07,9,763,807,3,49114,23.09,35,12
+32856,60 months,21.5,950.48,C,8 years,OTHER,119583.27,Default,credit_card,2.33,2,687,750,1,35764,73.56,37,6
+21827,36 months,14.44,650.07,B,1 year,OTHER,108786.57,Charged Off,debt_consolidation,3.99,7,786,793,9,23695,7.68,28,20
+16354,60 months,22.84,607.4,D,8 years,OTHER,91217.25,Charged Off,credit_card,17.04,2,716,724,3,32247,97.61,28,6
+39033,36 months,13.11,654.48,C,5 years,OWN,103999.19,Charged Off,credit_card,0.39,3,615,807,3,42246,43.67,45,22
+33582,60 months,6.07,170.0,F,8 years,OWN,153368.28,Charged Off,small_business,26.87,5,781,676,1,42570,6.38,40,39
+34805,36 months,24.63,224.02,F,9 years,OWN,168839.51,Fully Paid,major_purchase,2.72,0,809,810,7,7540,18.73,33,41
+28342,36 months,9.21,88.2,E,9 years,OTHER,30446.17,Default,home_improvement,4.03,5,608,673,7,13394,20.42,18,12
+39285,36 months,21.49,783.92,A,3 years,OWN,184158.03,Fully Paid,small_business,23.08,1,753,622,3,16624,75.75,42,2
+39828,36 months,17.83,406.72,G,7 years,OTHER,63125.82,Fully Paid,major_purchase,24.73,9,814,664,7,14364,4.23,42,33
+15911,36 months,9.42,265.34,F,6 years,OWN,57596.05,Fully Paid,credit_card,23.55,5,660,727,2,26821,60.26,14,36
+37882,36 months,12.03,626.95,C,5 years,MORTGAGE,125973.86,Fully Paid,credit_card,12.17,8,635,737,1,43140,47.5,28,34
+10581,60 months,14.54,430.55,E,< 1 year,RENT,59125.29,Charged Off,home_improvement,12.73,6,740,716,6,2043,7.05,48,41
+32151,60 months,22.3,153.89,F,5 years,OTHER,159533.8,Fully Paid,home_improvement,10.34,1,790,723,1,290,1.81,16,41
+3464,60 months,14.36,59.43,G,6 years,OWN,145639.4,Default,home_improvement,0.68,5,785,692,1,9481,64.11,32,16
+37750,36 months,13.44,662.54,F,9 years,OWN,184926.32,Fully Paid,debt_consolidation,28.58,7,692,837,9,44517,49.02,17,21
+29494,36 months,14.41,929.66,B,1 year,MORTGAGE,25154.41,Fully Paid,credit_card,28.57,6,625,841,5,47183,99.99,15,38
+31431,36 months,19.16,277.53,C,4 years,RENT,30027.96,Fully Paid,credit_card,20.58,4,633,657,4,13356,11.64,21,8
+2641,36 months,7.54,189.4,B,5 years,RENT,120896.69,Charged Off,home_improvement,28.49,0,810,603,4,37096,48.84,34,4
+21637,36 months,8.23,61.03,F,8 years,RENT,127244.77,Charged Off,credit_card,23.75,2,776,716,2,14154,90.18,45,12
+4605,36 months,23.63,615.28,G,3 years,RENT,36905.73,Charged Off,major_purchase,5.29,2,706,814,1,10662,14.53,15,14
+8314,60 months,8.09,392.21,D,5 years,OTHER,167931.53,Charged Off,home_improvement,29.64,4,787,622,2,37469,20.28,23,32
+31326,60 months,21.77,321.94,A,4 years,RENT,186217.36,Default,credit_card,27.08,9,613,722,1,40019,54.06,40,24
+19304,36 months,18.85,741.91,B,4 years,OTHER,162932.48,Default,debt_consolidation,4.73,9,788,680,8,13172,53.88,11,15
+2162,36 months,23.38,225.55,F,10+ years,MORTGAGE,74195.49,Default,home_improvement,25.7,8,798,626,4,27728,17.32,13,46
+2794,36 months,11.09,477.73,B,2 years,OWN,96146.16,Fully Paid,major_purchase,1.79,3,667,812,1,8250,87.66,41,4
+12201,36 months,24.76,782.73,E,2 years,RENT,53527.67,Fully Paid,small_business,21.65,3,759,844,8,32558,22.96,44,19
+18076,60 months,6.35,598.13,B,7 years,OWN,119395.77,Charged Off,credit_card,16.23,4,631,758,4,13258,73.32,26,22
+15656,36 months,21.55,411.78,D,5 years,OWN,192722.79,Fully Paid,home_improvement,1.65,9,684,651,1,48334,36.13,48,7
+8272,60 months,16.08,432.16,C,3 years,MORTGAGE,31584.27,Charged Off,major_purchase,6.65,9,751,786,0,42091,96.07,37,8
+16755,60 months,5.97,380.99,E,4 years,OWN,90147.71,Default,home_improvement,25.85,0,719,817,4,5975,90.96,19,22
+5069,36 months,23.08,350.77,F,9 years,OWN,120270.98,Charged Off,small_business,20.01,7,688,774,7,35810,24.27,42,21
+14237,36 months,21.38,613.06,F,9 years,OWN,58500.17,Default,debt_consolidation,26.56,9,749,654,7,1928,71.77,37,48
+38292,60 months,7.52,270.28,C,3 years,OTHER,26319.67,Default,major_purchase,13.16,6,849,827,0,18304,15.96,20,32
+24704,60 months,15.05,685.6,F,2 years,MORTGAGE,179405.09,Fully Paid,credit_card,6.68,2,833,682,6,42211,73.91,28,40
+13262,60 months,20.66,585.59,B,1 year,MORTGAGE,74519.83,Charged Off,debt_consolidation,26.35,4,799,717,1,21128,20.48,17,40
+18033,60 months,16.68,957.04,D,3 years,MORTGAGE,94093.51,Charged Off,debt_consolidation,2.96,9,725,748,5,8803,49.04,28,41
+12311,36 months,23.52,439.86,G,5 years,MORTGAGE,158162.66,Charged Off,home_improvement,13.82,9,803,618,7,9119,42.37,48,41
+22001,36 months,5.96,528.57,C,3 years,OWN,170975.14,Fully Paid,major_purchase,17.08,3,634,701,5,49846,84.71,35,32
+31162,60 months,7.77,481.33,A,4 years,RENT,56658.16,Fully Paid,debt_consolidation,26.26,1,767,663,0,48358,38.25,38,31
+35703,60 months,16.8,445.35,E,9 years,MORTGAGE,29994.36,Default,home_improvement,0.88,7,671,823,2,19993,65.3,44,8
+9483,36 months,6.09,728.89,C,6 years,MORTGAGE,88807.31,Fully Paid,major_purchase,23.16,5,676,814,9,38984,69.05,44,27
+22190,36 months,21.42,135.42,E,5 years,OWN,172337.7,Fully Paid,small_business,29.82,2,643,756,2,25560,44.82,48,8
+28371,36 months,24.0,353.06,A,3 years,OTHER,186977.89,Default,home_improvement,29.1,4,661,675,2,21120,13.02,36,21
+31850,60 months,14.51,831.19,A,3 years,RENT,78237.86,Fully Paid,major_purchase,15.05,9,650,701,4,31012,35.25,22,24
+2206,60 months,23.96,223.66,B,< 1 year,RENT,51825.37,Default,major_purchase,19.53,0,621,726,4,41664,50.04,9,30
+32045,36 months,10.82,308.29,F,2 years,RENT,100595.51,Charged Off,credit_card,7.67,6,659,746,5,4745,36.86,7,9
+35976,36 months,20.71,712.71,F,8 years,OWN,186746.04,Default,credit_card,13.37,6,706,727,2,16484,35.77,31,18
+13150,36 months,23.07,140.32,B,6 years,OTHER,194256.51,Default,credit_card,11.62,3,754,627,9,23314,21.35,45,31
+7653,36 months,17.99,448.97,A,1 year,OTHER,86950.91,Default,home_improvement,3.58,2,752,625,9,36534,80.98,43,24
+18899,60 months,21.58,154.32,D,< 1 year,OTHER,84892.13,Fully Paid,home_improvement,0.6,2,823,672,7,8543,11.99,16,40
+28855,36 months,12.49,406.76,F,9 years,OTHER,105532.32,Fully Paid,home_improvement,21.8,7,642,690,0,34211,27.96,31,45
+2617,36 months,21.51,874.43,G,< 1 year,OWN,106682.44,Fully Paid,credit_card,15.87,9,732,621,0,15121,27.32,24,8
+9057,36 months,14.31,206.26,G,2 years,OTHER,58768.74,Fully Paid,credit_card,24.84,5,695,732,7,45284,39.31,20,45
+26555,36 months,20.56,185.74,F,6 years,OTHER,63702.2,Charged Off,debt_consolidation,23.47,6,783,820,4,14846,96.98,38,38
+21443,60 months,23.73,992.16,E,5 years,RENT,100193.55,Fully Paid,credit_card,23.57,5,701,754,1,41742,39.03,32,12
+27625,36 months,6.98,730.93,F,8 years,RENT,138612.07,Default,debt_consolidation,27.38,3,816,655,8,47211,16.4,6,12
+9684,36 months,16.66,101.64,D,10+ years,OTHER,186902.78,Fully Paid,debt_consolidation,23.45,0,764,677,3,8984,14.59,14,18
+2228,60 months,9.47,705.56,F,8 years,RENT,175361.85,Default,home_improvement,2.28,9,635,759,9,38653,87.73,15,4
+21668,36 months,14.55,273.79,F,8 years,OWN,39495.36,Charged Off,credit_card,14.88,0,735,740,4,13039,68.58,43,24
+24430,36 months,16.1,265.97,G,2 years,RENT,152424.67,Default,major_purchase,27.0,2,749,604,2,666,84.5,43,43
+36380,36 months,24.76,978.21,G,10+ years,MORTGAGE,136228.71,Default,major_purchase,11.57,3,743,835,5,14870,34.78,10,28
+1855,36 months,22.97,124.03,G,3 years,OTHER,102494.54,Fully Paid,small_business,14.09,7,804,645,1,19128,25.57,31,3
+29927,36 months,6.31,981.19,C,4 years,OTHER,54275.55,Fully Paid,major_purchase,27.25,8,730,623,3,36202,33.53,17,23
+20597,60 months,7.81,737.93,F,5 years,MORTGAGE,78715.42,Charged Off,major_purchase,0.77,9,730,679,1,46914,98.03,43,38
+5658,36 months,21.69,161.1,A,10+ years,MORTGAGE,141252.82,Fully Paid,major_purchase,4.41,9,681,742,9,4051,64.26,41,16
+20894,36 months,19.87,470.57,F,10+ years,MORTGAGE,198899.63,Fully Paid,home_improvement,7.98,7,849,839,7,12651,65.12,26,27
+4351,60 months,22.57,140.8,A,3 years,OTHER,178003.32,Default,home_improvement,22.54,4,662,671,3,29941,15.64,7,41
+15946,60 months,9.41,725.81,A,8 years,MORTGAGE,176958.3,Default,debt_consolidation,10.01,5,738,702,3,36512,77.56,9,13
+38380,36 months,17.41,935.59,D,8 years,RENT,126665.03,Fully Paid,debt_consolidation,26.12,1,791,846,6,19811,23.79,28,35
+7997,36 months,8.92,494.21,F,3 years,MORTGAGE,116237.33,Default,credit_card,7.32,5,786,690,1,43136,26.39,48,33
+18536,60 months,8.27,100.84,B,2 years,RENT,68598.45,Fully Paid,small_business,4.58,4,827,622,0,15612,43.83,24,48
+12257,60 months,23.76,833.02,C,10+ years,OWN,112502.56,Charged Off,small_business,13.1,8,759,762,4,7934,32.77,26,17
+27498,36 months,17.01,346.43,C,7 years,OTHER,63861.4,Fully Paid,home_improvement,2.2,9,843,840,5,41887,41.34,6,21
+1284,60 months,14.63,984.85,G,2 years,OWN,28595.6,Charged Off,small_business,16.51,5,750,825,5,2059,59.05,46,47
+17866,60 months,17.63,593.92,G,8 years,RENT,137878.59,Charged Off,major_purchase,6.26,5,625,723,6,1875,46.18,46,40
+21947,36 months,19.97,828.65,G,2 years,OTHER,142636.47,Charged Off,credit_card,26.68,6,620,841,9,18506,60.12,27,22
+4017,60 months,12.5,397.79,E,3 years,OWN,28783.39,Fully Paid,debt_consolidation,28.99,8,606,682,7,12593,1.67,31,27
+2193,36 months,9.88,894.05,G,3 years,MORTGAGE,188915.66,Fully Paid,credit_card,23.38,7,768,755,3,11911,52.63,15,11
+30289,60 months,17.19,684.72,G,4 years,OTHER,78032.45,Fully Paid,major_purchase,1.58,3,746,653,6,46320,20.41,48,38
+2883,60 months,7.93,991.09,A,3 years,MORTGAGE,185523.88,Fully Paid,small_business,6.47,7,758,673,0,20136,81.4,14,4
+21328,36 months,16.82,949.33,E,< 1 year,OWN,32725.37,Fully Paid,small_business,27.56,9,675,731,1,45374,84.92,29,11
+23655,60 months,20.14,878.78,A,10+ years,RENT,114688.96,Fully Paid,credit_card,1.97,8,627,806,2,18118,46.61,48,39
+2373,36 months,6.39,163.55,C,3 years,OTHER,118493.81,Charged Off,major_purchase,2.81,0,799,671,5,32485,79.7,27,9
+39899,60 months,22.16,381.97,C,2 years,OWN,119184.49,Charged Off,major_purchase,4.56,4,816,741,3,42574,64.34,49,11
+24666,60 months,8.65,726.13,C,5 years,OWN,175475.17,Default,major_purchase,1.48,7,785,619,3,30069,87.35,41,8
+1158,60 months,16.78,165.01,C,9 years,OWN,169176.65,Charged Off,major_purchase,4.89,2,792,659,4,9785,23.87,13,22
+26944,60 months,16.95,576.0,A,< 1 year,MORTGAGE,120698.09,Default,debt_consolidation,8.05,5,812,838,1,8300,97.32,48,38
+35832,60 months,15.18,938.78,D,1 year,RENT,24891.42,Fully Paid,home_improvement,29.46,8,669,715,3,5905,1.06,6,21
+13065,36 months,13.16,227.84,B,1 year,RENT,60701.98,Default,home_improvement,8.24,9,816,734,4,4003,85.78,12,45
+39003,60 months,20.43,428.07,D,1 year,RENT,127593.19,Charged Off,debt_consolidation,3.73,2,735,703,9,35439,10.83,25,37
+37059,36 months,10.65,217.12,F,5 years,OWN,199702.92,Charged Off,home_improvement,27.86,5,775,813,9,3063,94.76,34,12
+38115,36 months,13.72,715.42,E,8 years,OTHER,131351.43,Default,small_business,28.84,3,794,834,9,5764,48.99,30,17
+17605,36 months,22.52,947.59,D,< 1 year,OWN,119399.41,Fully Paid,debt_consolidation,23.64,3,623,834,4,1836,56.48,16,24
+25906,36 months,13.13,260.88,B,5 years,OTHER,28897.29,Fully Paid,small_business,10.39,6,833,714,0,1563,51.14,38,24
+17749,60 months,14.65,944.18,C,8 years,OWN,183933.39,Charged Off,debt_consolidation,0.17,6,771,677,3,1197,79.64,6,46
+25984,60 months,12.17,196.59,C,9 years,MORTGAGE,132812.81,Fully Paid,debt_consolidation,19.09,3,624,839,3,33342,89.23,25,39
+16156,36 months,24.9,329.38,F,3 years,MORTGAGE,113620.49,Fully Paid,debt_consolidation,25.84,5,623,787,7,17386,95.22,12,48
+16217,60 months,11.76,774.71,G,1 year,OWN,25503.18,Fully Paid,major_purchase,1.09,1,771,766,6,15569,60.17,36,41
+1012,60 months,20.52,129.94,F,8 years,RENT,29583.75,Charged Off,debt_consolidation,7.0,4,826,695,7,3591,87.03,37,8
+9533,60 months,20.31,964.88,B,2 years,OTHER,126602.53,Fully Paid,small_business,8.26,6,651,810,0,14937,57.55,48,2
+1727,60 months,15.15,476.98,E,10+ years,MORTGAGE,98065.81,Fully Paid,credit_card,8.79,5,804,640,5,10310,5.19,48,45
+22657,60 months,8.85,653.97,A,5 years,OTHER,43135.72,Fully Paid,small_business,1.57,9,710,756,4,22179,16.3,18,10
+26537,36 months,19.38,265.39,G,9 years,MORTGAGE,41728.99,Charged Off,small_business,24.64,4,762,622,3,29516,66.07,44,13
+29209,36 months,19.07,347.78,C,2 years,RENT,194347.34,Charged Off,small_business,27.62,1,784,826,7,27552,72.72,16,22
+21845,36 months,9.48,281.0,C,< 1 year,OWN,128651.82,Charged Off,credit_card,14.72,1,668,786,7,32515,16.52,42,32
+28021,36 months,21.55,508.67,F,8 years,OWN,113778.33,Charged Off,credit_card,10.94,5,633,600,0,39263,64.1,39,10
+27233,60 months,19.74,66.95,G,3 years,OTHER,125646.15,Default,credit_card,12.85,5,670,785,3,33859,55.07,16,6
+16959,60 months,10.86,665.21,B,8 years,MORTGAGE,55259.93,Fully Paid,major_purchase,14.39,0,830,709,7,40239,92.83,38,15
+35503,60 months,23.29,114.68,E,7 years,RENT,134549.95,Charged Off,credit_card,10.27,8,687,682,9,5040,7.01,42,19
+18284,36 months,15.78,783.25,B,5 years,RENT,133007.0,Fully Paid,major_purchase,28.26,4,798,631,3,44037,64.04,9,7
+39162,36 months,14.3,786.86,F,7 years,OTHER,90678.27,Fully Paid,debt_consolidation,7.46,5,602,744,0,45436,15.92,13,6
+31270,36 months,5.87,690.01,A,6 years,RENT,38570.54,Fully Paid,major_purchase,7.65,6,617,610,0,41920,9.04,7,32
+17923,60 months,15.25,77.71,C,7 years,RENT,25062.5,Charged Off,home_improvement,4.49,8,705,789,7,30431,53.67,26,15
+25132,36 months,5.62,633.54,D,4 years,OWN,20685.1,Fully Paid,credit_card,24.76,0,604,846,4,49664,10.64,8,28
+5221,36 months,22.76,371.64,D,3 years,MORTGAGE,130667.82,Default,major_purchase,8.13,9,615,723,2,31961,87.0,16,37
+22848,36 months,22.67,232.89,E,8 years,MORTGAGE,48391.99,Fully Paid,major_purchase,0.82,7,812,773,5,48611,21.6,7,15
+29875,60 months,7.77,186.97,B,1 year,RENT,147896.31,Charged Off,debt_consolidation,25.16,0,731,818,2,12059,75.69,20,46
+19549,36 months,11.15,867.64,D,3 years,OWN,198859.24,Fully Paid,home_improvement,28.99,8,636,632,7,37349,79.86,13,33
+39904,36 months,12.95,114.86,A,8 years,OTHER,198847.23,Fully Paid,home_improvement,5.69,7,721,622,9,30328,32.31,24,4
+30199,60 months,17.55,960.91,D,9 years,MORTGAGE,91271.28,Fully Paid,debt_consolidation,7.08,9,620,622,6,9877,66.37,43,39
+28952,36 months,13.08,205.39,F,4 years,MORTGAGE,112423.41,Fully Paid,home_improvement,29.5,5,829,731,4,5690,73.25,47,34
+22441,60 months,15.03,903.66,A,8 years,OWN,31080.22,Charged Off,credit_card,19.27,1,804,688,9,10007,50.93,42,11
+33243,60 months,17.25,705.62,B,9 years,OWN,106890.34,Default,home_improvement,18.56,7,718,805,1,17397,91.26,16,30
+32932,60 months,10.21,239.53,E,10+ years,RENT,46336.73,Charged Off,major_purchase,12.22,3,848,751,2,7430,69.6,16,25
+32785,60 months,11.81,83.82,C,2 years,MORTGAGE,122870.15,Fully Paid,small_business,16.88,9,820,760,1,10086,35.57,27,48
+34231,60 months,14.87,899.47,E,5 years,OWN,155735.97,Fully Paid,home_improvement,29.68,4,676,604,1,42272,71.61,21,21
+35356,60 months,21.82,577.56,A,2 years,MORTGAGE,127099.23,Default,major_purchase,4.92,1,686,700,3,37448,82.0,25,23
+16413,60 months,18.03,528.03,A,3 years,OWN,74380.25,Fully Paid,debt_consolidation,13.57,1,691,606,2,7044,66.06,47,38
+36436,36 months,17.0,501.1,G,< 1 year,MORTGAGE,85118.14,Charged Off,credit_card,5.92,2,732,780,7,23843,93.83,28,11
+10545,36 months,21.09,746.74,C,9 years,OTHER,67107.82,Default,small_business,18.85,5,846,715,7,41118,19.7,8,47
+18782,36 months,12.46,80.51,A,7 years,MORTGAGE,112569.35,Fully Paid,credit_card,15.43,9,662,613,8,3864,44.26,17,45
+35386,60 months,24.78,696.48,C,10+ years,RENT,56375.96,Fully Paid,major_purchase,2.71,6,776,704,3,45630,23.82,8,27
+2287,60 months,7.92,145.65,A,6 years,RENT,148145.64,Fully Paid,credit_card,27.77,0,818,652,6,20063,0.79,17,13
+37269,60 months,9.42,425.71,C,9 years,OWN,56053.21,Default,major_purchase,28.06,6,747,807,5,24803,70.88,43,32
+29150,36 months,14.78,178.79,F,1 year,OTHER,107446.31,Default,home_improvement,17.22,4,602,759,8,40511,12.05,17,3
+18628,36 months,6.51,894.82,G,10+ years,RENT,161597.47,Default,home_improvement,25.37,2,824,746,9,28179,56.61,11,41
+12251,60 months,24.15,629.52,B,< 1 year,OWN,21641.36,Default,home_improvement,0.86,1,764,791,3,284,9.56,30,31
+12735,36 months,20.24,408.85,G,3 years,RENT,61409.99,Default,home_improvement,19.17,2,761,605,8,12526,44.2,26,14
+11909,60 months,13.99,500.14,B,< 1 year,RENT,88209.84,Fully Paid,home_improvement,25.86,4,839,622,6,13066,47.2,14,9
+37188,60 months,8.41,970.48,D,2 years,OWN,195525.37,Charged Off,major_purchase,24.19,4,682,820,5,25991,25.37,33,14
+16989,36 months,9.16,876.9,D,< 1 year,MORTGAGE,39781.11,Default,small_business,7.81,7,820,604,7,23439,77.59,30,24
+5206,36 months,5.14,680.83,E,4 years,OTHER,105649.04,Default,home_improvement,28.09,1,628,659,3,16967,44.75,14,47
+10383,60 months,11.31,946.32,F,6 years,OTHER,172572.25,Default,debt_consolidation,6.95,4,627,826,8,28311,47.25,22,13
+3074,60 months,13.48,350.6,G,10+ years,OWN,70232.02,Default,debt_consolidation,9.84,3,765,725,0,15055,3.79,13,28
+5924,36 months,17.09,832.04,B,9 years,RENT,153882.68,Default,debt_consolidation,25.05,3,675,794,7,3514,48.13,31,34
+5158,36 months,9.97,487.64,D,2 years,MORTGAGE,45641.56,Fully Paid,credit_card,18.61,3,829,763,8,40241,55.17,14,24
+9258,60 months,16.8,470.33,B,< 1 year,RENT,56808.97,Default,small_business,25.92,7,848,702,5,17735,39.71,45,31
+13580,36 months,13.59,126.44,G,8 years,OWN,95401.19,Charged Off,home_improvement,0.56,9,764,720,7,29091,7.72,46,19
+39622,60 months,21.31,149.14,E,4 years,RENT,78136.51,Fully Paid,major_purchase,17.84,6,611,698,7,20714,27.8,8,2
+20393,60 months,10.64,546.5,A,10+ years,MORTGAGE,174113.08,Charged Off,small_business,0.57,9,724,650,3,15929,25.24,9,21
+34545,36 months,20.93,312.1,F,1 year,RENT,158549.85,Charged Off,debt_consolidation,19.91,5,847,738,2,31329,45.18,7,29
+14125,60 months,10.78,133.86,D,6 years,OWN,129800.53,Fully Paid,home_improvement,20.31,3,767,676,8,17668,17.25,28,40
+6458,60 months,15.76,799.95,C,2 years,RENT,155036.16,Fully Paid,major_purchase,3.55,8,615,746,2,17372,86.25,42,42
+4303,36 months,7.27,83.21,B,8 years,OWN,64692.86,Fully Paid,major_purchase,18.41,4,626,751,9,40877,19.35,39,41
+18032,36 months,17.67,85.65,F,4 years,OTHER,146487.81,Default,small_business,15.61,5,651,837,9,27424,40.09,34,43
+24579,36 months,22.81,493.95,E,3 years,MORTGAGE,161190.88,Charged Off,credit_card,27.98,5,718,807,6,23214,25.57,19,38
+17982,60 months,9.67,210.88,C,7 years,OTHER,147141.42,Fully Paid,major_purchase,20.95,6,772,670,1,16404,28.25,27,30
+26345,36 months,17.19,370.14,G,2 years,MORTGAGE,50624.5,Fully Paid,small_business,29.81,3,823,840,0,9841,21.64,11,44
+6131,36 months,17.63,571.71,D,10+ years,RENT,112723.21,Fully Paid,credit_card,22.24,7,637,719,2,13407,78.27,9,42
+12069,60 months,20.32,268.33,F,3 years,OWN,126656.82,Fully Paid,small_business,25.65,1,745,821,4,28628,87.0,45,28
+27750,36 months,18.52,635.0,E,5 years,OWN,161621.55,Fully Paid,credit_card,6.87,1,739,663,8,48133,12.6,5,19
+24259,36 months,7.03,272.01,A,10+ years,MORTGAGE,72696.2,Fully Paid,debt_consolidation,29.43,6,835,660,9,20928,76.27,27,46
+33637,60 months,10.56,227.72,A,7 years,OTHER,55462.7,Default,debt_consolidation,2.2,1,798,743,5,15380,51.66,37,38
+28957,60 months,18.95,385.23,B,8 years,OWN,69816.46,Default,small_business,22.71,3,691,605,7,4793,67.46,22,20
+18121,36 months,6.33,363.34,A,8 years,RENT,63074.35,Charged Off,small_business,5.8,9,606,842,0,24942,27.46,23,40
+26200,60 months,22.76,55.24,C,< 1 year,OWN,190974.7,Fully Paid,home_improvement,17.48,5,761,631,0,43130,73.71,10,10
+36632,36 months,11.99,374.13,A,4 years,MORTGAGE,34192.18,Default,home_improvement,2.81,5,662,624,8,49173,49.93,5,34
+18062,36 months,5.78,633.05,B,6 years,OTHER,110673.94,Fully Paid,home_improvement,29.12,0,847,682,7,33396,42.21,7,31
+3297,36 months,11.61,605.25,E,2 years,OTHER,168812.52,Fully Paid,home_improvement,12.16,1,692,684,3,40765,80.96,23,23
+25797,60 months,17.81,265.38,F,3 years,OTHER,174809.11,Default,debt_consolidation,21.21,0,848,642,3,1773,67.25,33,47
+20786,36 months,20.18,834.77,F,10+ years,OWN,87727.83,Fully Paid,small_business,20.63,3,704,832,8,39616,47.19,17,19
+3852,36 months,17.56,777.68,G,8 years,RENT,30004.48,Fully Paid,credit_card,0.78,1,717,743,5,36885,77.86,26,1
+17118,60 months,6.06,675.93,C,1 year,OWN,189170.42,Fully Paid,major_purchase,15.56,5,847,795,4,9368,74.11,42,47
+11990,36 months,18.49,975.58,D,10+ years,OTHER,43189.08,Fully Paid,debt_consolidation,1.21,0,799,688,7,14621,75.9,30,25
+34748,36 months,11.98,311.06,A,8 years,OTHER,71963.98,Default,debt_consolidation,22.05,2,831,735,1,44213,56.43,14,3
+7179,60 months,19.03,629.79,F,5 years,RENT,137631.49,Default,debt_consolidation,29.31,2,647,744,0,4517,56.14,25,9
+35964,60 months,8.42,967.47,G,4 years,OWN,30236.73,Default,home_improvement,9.76,1,804,732,0,38833,5.93,10,8
+15152,60 months,18.21,116.64,A,4 years,OTHER,78793.85,Default,credit_card,8.47,3,652,766,5,27047,3.94,36,32
+2386,36 months,24.47,349.73,E,8 years,MORTGAGE,113804.0,Fully Paid,debt_consolidation,22.91,4,824,775,2,42275,5.84,18,18
+34686,36 months,15.28,268.91,G,5 years,OTHER,183628.81,Default,major_purchase,22.72,6,802,738,5,24661,37.43,44,33
+18249,60 months,13.67,423.05,F,7 years,OTHER,128079.19,Default,home_improvement,0.18,4,724,845,1,4838,17.05,36,20
+14847,36 months,21.23,916.15,A,5 years,OTHER,155220.35,Fully Paid,small_business,21.21,1,672,787,7,42873,27.32,25,35
+15430,60 months,14.41,945.19,C,< 1 year,OTHER,82739.74,Fully Paid,credit_card,13.87,5,830,833,8,44805,24.54,16,42
+31405,36 months,17.19,210.59,G,7 years,MORTGAGE,28715.69,Charged Off,debt_consolidation,27.92,7,677,699,2,26500,13.84,48,24
+2623,36 months,6.49,250.68,F,3 years,OTHER,28444.25,Default,home_improvement,23.85,0,754,666,0,12959,65.25,29,10
+34722,60 months,10.28,563.65,E,9 years,OTHER,55111.91,Default,small_business,20.05,7,803,678,7,45376,53.21,34,30
+8459,36 months,9.04,961.51,B,7 years,RENT,121806.94,Charged Off,major_purchase,20.12,2,662,665,0,41929,87.69,34,47
+11478,60 months,6.76,368.24,A,< 1 year,MORTGAGE,193138.6,Charged Off,credit_card,14.09,9,685,722,3,33606,53.33,42,34
+32144,36 months,21.67,53.13,A,9 years,OWN,172135.75,Charged Off,home_improvement,29.21,3,619,646,2,9792,14.87,49,35
+9161,60 months,7.01,652.77,A,< 1 year,OWN,173453.14,Fully Paid,small_business,18.03,4,717,639,1,18761,0.75,33,29
+31167,36 months,22.77,375.2,B,6 years,RENT,194796.75,Charged Off,credit_card,19.94,4,653,644,3,830,25.81,8,36
+26716,36 months,10.03,178.15,C,10+ years,OTHER,25820.85,Default,small_business,13.47,5,846,607,1,24528,10.56,32,30
+12392,60 months,15.87,115.25,C,1 year,OTHER,115649.09,Charged Off,home_improvement,1.42,8,664,685,5,13908,67.45,24,24
+27757,36 months,20.73,987.35,C,8 years,OTHER,90327.96,Fully Paid,credit_card,3.33,2,615,750,8,45046,26.64,23,11
+13909,36 months,12.31,646.82,B,1 year,RENT,36014.4,Fully Paid,credit_card,22.2,8,648,756,1,17866,49.94,25,38
+37839,60 months,15.31,596.03,A,7 years,OWN,119731.05,Default,home_improvement,28.51,9,679,767,9,48909,37.02,33,13
+29090,60 months,8.71,773.44,E,10+ years,OWN,179172.2,Charged Off,home_improvement,24.3,3,689,619,8,7446,76.67,39,3
+23297,36 months,8.79,603.17,A,5 years,RENT,70912.07,Charged Off,credit_card,15.7,4,778,814,6,49042,51.81,39,7
+29368,60 months,10.73,176.59,G,< 1 year,MORTGAGE,174525.28,Fully Paid,credit_card,28.05,4,818,618,9,23100,17.68,25,44
+21806,36 months,10.02,68.62,E,4 years,RENT,61810.17,Default,debt_consolidation,21.06,6,729,641,6,3835,86.96,40,21
+18979,60 months,17.77,227.17,D,3 years,OTHER,184337.32,Default,home_improvement,18.52,8,809,637,0,16339,0.81,47,35
+24752,60 months,11.18,952.34,D,9 years,RENT,117499.75,Charged Off,home_improvement,17.55,5,793,732,2,13979,5.85,35,48
+33737,60 months,8.21,743.72,A,8 years,RENT,165433.52,Charged Off,credit_card,17.05,4,645,760,3,40835,95.57,19,29
+22731,36 months,16.25,650.73,A,< 1 year,OWN,168197.68,Default,major_purchase,21.38,8,724,667,1,37274,5.41,34,27
+2548,60 months,19.95,111.02,G,< 1 year,MORTGAGE,56398.79,Default,debt_consolidation,29.14,0,813,798,7,32553,26.48,47,38
+39584,60 months,6.08,676.57,F,7 years,RENT,77296.08,Default,debt_consolidation,20.21,0,819,766,6,13295,46.47,15,38
+26368,60 months,7.7,364.62,C,5 years,OTHER,127090.86,Fully Paid,small_business,0.82,5,756,787,9,20692,69.65,31,49
+10518,36 months,8.45,509.88,B,< 1 year,RENT,193242.3,Charged Off,credit_card,6.59,3,706,807,5,2946,5.05,15,34
+37860,60 months,18.0,885.99,B,7 years,MORTGAGE,164254.54,Fully Paid,major_purchase,14.13,0,668,643,1,18080,62.84,14,21
+26237,36 months,16.33,944.66,B,9 years,OTHER,114908.81,Charged Off,major_purchase,25.73,9,844,728,5,6930,12.08,28,11
+38189,60 months,22.66,717.65,D,2 years,MORTGAGE,31618.03,Charged Off,small_business,3.98,7,703,768,2,14054,32.14,34,43
+31271,36 months,7.16,565.75,D,< 1 year,OTHER,168146.95,Fully Paid,home_improvement,27.39,5,646,759,3,1772,46.69,49,3
+37460,60 months,24.64,660.17,A,9 years,MORTGAGE,140031.16,Default,home_improvement,10.66,4,800,789,7,24042,56.87,6,23
+20440,36 months,9.87,750.73,B,5 years,RENT,40496.53,Fully Paid,debt_consolidation,11.82,6,819,832,4,39614,95.47,38,39
+12144,60 months,8.18,314.74,G,2 years,OWN,173543.35,Charged Off,debt_consolidation,1.35,2,792,611,0,39180,15.46,34,17
+22641,60 months,8.2,209.55,D,4 years,MORTGAGE,33695.48,Charged Off,debt_consolidation,27.23,2,677,642,6,21360,61.34,43,47
+15725,36 months,15.06,262.92,A,10+ years,OWN,153442.01,Default,credit_card,5.56,9,724,602,3,19977,3.77,7,39
+10194,60 months,16.97,867.72,B,1 year,MORTGAGE,50326.24,Charged Off,major_purchase,26.81,4,603,793,3,10311,8.37,36,13
+39018,60 months,12.13,349.37,B,< 1 year,OWN,109177.26,Default,small_business,2.6,9,841,751,5,25883,87.76,25,21
+14935,36 months,7.74,571.88,A,4 years,MORTGAGE,155958.45,Fully Paid,home_improvement,8.13,5,703,828,6,43638,12.5,38,27
+10161,60 months,7.36,637.01,G,8 years,RENT,53108.42,Charged Off,small_business,14.66,5,695,753,6,32867,12.06,7,45
+31664,36 months,8.61,657.41,G,6 years,OTHER,88897.19,Default,major_purchase,8.01,8,769,671,3,27411,33.31,32,7
+17383,36 months,23.87,365.07,G,4 years,RENT,147013.63,Charged Off,debt_consolidation,4.96,2,743,607,0,10267,87.04,25,48
+19242,36 months,11.64,943.6,E,1 year,OWN,89911.87,Default,home_improvement,8.06,0,628,804,3,18395,46.64,7,39
+12136,60 months,21.69,506.84,E,6 years,RENT,72837.76,Fully Paid,small_business,19.74,9,749,767,7,7622,25.21,27,26
+14454,60 months,12.35,720.51,C,< 1 year,MORTGAGE,175560.89,Default,home_improvement,5.74,9,833,648,3,31702,97.1,44,27
+23449,60 months,7.47,695.22,C,8 years,RENT,66197.85,Charged Off,major_purchase,22.51,1,811,683,0,1687,9.12,41,25
+2553,60 months,20.88,495.11,A,9 years,RENT,163337.55,Default,debt_consolidation,22.92,8,673,607,9,22990,70.85,43,38
+11164,60 months,15.04,124.68,F,1 year,OTHER,143640.68,Charged Off,small_business,7.1,6,750,641,1,22448,90.66,28,20
+22607,60 months,8.41,143.76,D,9 years,OWN,20294.95,Charged Off,credit_card,13.84,3,701,848,1,35210,48.93,45,8
+19079,60 months,13.8,129.79,C,6 years,OWN,63305.85,Charged Off,home_improvement,13.88,2,811,842,9,42631,78.15,6,25
+35622,36 months,24.57,328.33,B,9 years,OWN,59601.22,Charged Off,home_improvement,2.2,8,604,617,0,27618,84.12,6,12
+4651,60 months,6.19,547.18,B,9 years,OWN,73742.44,Default,home_improvement,9.03,1,725,616,4,23554,36.09,23,11
+32529,36 months,15.23,567.22,G,1 year,OTHER,176963.62,Default,major_purchase,9.73,2,820,719,4,8727,29.52,17,30
+35009,36 months,10.46,430.93,F,8 years,OTHER,57236.79,Fully Paid,home_improvement,17.51,8,841,619,2,10621,57.12,15,3
+7147,60 months,20.03,54.76,A,6 years,OTHER,54263.29,Fully Paid,small_business,26.58,0,660,772,4,36150,11.75,11,18
+22557,60 months,7.16,101.9,D,6 years,OTHER,85816.6,Fully Paid,major_purchase,11.82,2,806,803,7,47437,68.29,17,21
+27595,36 months,13.75,126.41,C,9 years,OTHER,187416.81,Default,debt_consolidation,19.17,6,601,725,9,16869,16.34,9,25
+30397,60 months,11.21,77.19,A,8 years,MORTGAGE,198707.04,Charged Off,small_business,9.45,1,617,801,7,29359,57.16,31,40
+35168,36 months,14.52,401.25,F,7 years,RENT,98412.06,Charged Off,home_improvement,4.9,2,681,836,3,6657,6.55,29,33
+23218,60 months,18.72,65.84,C,9 years,OWN,30472.98,Fully Paid,small_business,9.99,9,792,831,2,9506,78.07,16,18
+21600,60 months,5.88,856.9,E,10+ years,OTHER,100485.8,Fully Paid,home_improvement,6.22,6,753,616,0,6924,44.25,16,30
+27274,36 months,7.37,397.35,B,8 years,RENT,112906.7,Fully Paid,home_improvement,11.61,9,648,651,4,33611,69.35,43,38
+23204,36 months,14.7,539.31,A,4 years,OWN,152592.41,Fully Paid,home_improvement,2.27,6,688,834,8,14454,29.6,41,42
+33857,60 months,14.55,146.81,F,5 years,MORTGAGE,100079.28,Default,home_improvement,28.61,1,751,833,7,30635,57.37,8,43
+16909,36 months,9.05,555.8,G,2 years,OTHER,58875.96,Charged Off,major_purchase,25.16,6,617,745,1,8881,47.96,18,13
+17530,60 months,9.85,319.64,A,5 years,OWN,48067.42,Default,major_purchase,28.49,2,712,675,4,42600,25.29,11,7
+21178,36 months,17.12,807.16,D,10+ years,MORTGAGE,106727.79,Charged Off,credit_card,28.9,7,773,612,6,4914,8.98,11,25
+1914,36 months,18.16,909.02,C,1 year,MORTGAGE,151156.43,Default,credit_card,17.93,4,732,798,1,40834,14.29,42,7
+38436,36 months,20.5,130.3,G,8 years,MORTGAGE,121298.77,Fully Paid,small_business,9.63,9,690,784,9,35445,46.16,16,44
+4525,36 months,5.51,711.45,E,1 year,RENT,198742.24,Charged Off,debt_consolidation,17.25,1,645,784,9,44996,4.37,26,34
+35822,60 months,5.47,679.06,E,4 years,RENT,110913.73,Fully Paid,small_business,16.12,1,703,650,5,12507,45.89,39,29
+26264,60 months,7.13,965.39,E,1 year,OTHER,72368.33,Default,debt_consolidation,9.04,5,657,769,4,43236,77.62,38,38
+33232,60 months,11.73,941.54,B,< 1 year,MORTGAGE,85097.26,Fully Paid,major_purchase,3.21,0,769,660,1,13925,46.93,43,18
+37943,36 months,14.92,701.88,E,1 year,OTHER,79047.87,Default,debt_consolidation,19.75,0,722,789,7,9120,43.53,13,45
+10766,60 months,11.47,83.77,G,7 years,RENT,46417.24,Default,debt_consolidation,6.75,4,708,717,5,16994,69.77,10,18
+12162,60 months,23.68,968.11,C,6 years,OTHER,65397.5,Charged Off,credit_card,9.49,5,737,827,3,39811,80.03,31,41
+35897,36 months,6.91,960.64,E,< 1 year,OWN,139925.37,Default,debt_consolidation,17.79,5,704,801,8,10981,43.3,30,6
+36513,36 months,17.95,536.54,E,8 years,MORTGAGE,90095.05,Charged Off,credit_card,23.77,1,802,673,1,8129,21.07,43,26
+30965,36 months,16.99,919.74,C,9 years,OTHER,187162.84,Fully Paid,small_business,9.0,6,615,638,8,20660,27.54,26,35
+27592,36 months,6.41,96.37,A,< 1 year,OWN,24958.5,Default,debt_consolidation,20.31,6,792,631,2,34501,72.54,42,46
+20430,36 months,24.54,869.55,C,8 years,MORTGAGE,60867.95,Default,major_purchase,16.0,7,700,678,9,40465,4.45,11,19
+35823,36 months,20.64,828.79,E,6 years,OWN,74935.96,Default,major_purchase,10.0,9,781,663,9,8739,28.44,40,26
+25426,36 months,6.92,762.27,C,10+ years,OWN,44462.53,Charged Off,major_purchase,17.78,9,741,802,0,25751,66.57,29,2
+27365,36 months,18.49,949.4,D,8 years,OWN,51947.46,Default,home_improvement,9.37,6,710,654,8,36284,61.51,30,46
+16161,36 months,12.52,767.55,G,< 1 year,OWN,48733.33,Charged Off,credit_card,3.56,1,712,746,5,15319,17.29,27,25
+18692,60 months,7.09,377.1,A,9 years,OWN,117879.31,Charged Off,credit_card,12.32,9,729,698,8,15769,31.91,25,32
+32619,36 months,22.7,141.01,D,5 years,OTHER,113114.79,Charged Off,home_improvement,26.55,3,795,765,5,3573,95.1,5,34
+36074,60 months,23.84,159.45,E,4 years,MORTGAGE,185110.39,Charged Off,small_business,5.68,8,681,609,1,37808,44.83,30,29
+10746,60 months,9.08,562.23,D,10+ years,MORTGAGE,75800.33,Fully Paid,home_improvement,2.29,2,705,807,4,39180,43.33,27,43
+28352,60 months,9.09,437.0,E,6 years,OTHER,45154.21,Charged Off,credit_card,0.55,1,682,702,0,5938,14.04,40,36
+23738,36 months,9.62,810.29,F,2 years,OWN,39662.49,Charged Off,debt_consolidation,4.01,5,667,782,5,8766,99.33,18,9
+6907,36 months,17.09,746.63,A,6 years,OTHER,151163.58,Default,home_improvement,7.33,0,656,644,6,22532,55.99,39,16
+12433,60 months,22.96,480.37,B,5 years,RENT,30852.3,Default,home_improvement,6.3,9,752,676,8,34486,69.47,26,4
+29394,60 months,9.35,747.79,B,10+ years,OTHER,190270.95,Default,home_improvement,7.0,0,793,749,2,12033,94.23,19,44
+37785,36 months,24.32,856.43,B,3 years,MORTGAGE,74876.94,Fully Paid,credit_card,19.97,5,698,839,6,13781,94.35,29,12
+24084,36 months,9.43,873.56,B,4 years,OTHER,52238.27,Default,small_business,28.22,0,693,778,1,12400,73.4,31,13
+32656,60 months,17.65,447.24,G,2 years,OTHER,111422.09,Charged Off,major_purchase,29.42,2,739,763,4,188,8.07,34,45
+11479,60 months,15.05,246.83,E,8 years,OWN,156517.24,Default,home_improvement,10.78,9,798,709,6,37025,23.85,20,27
+14448,60 months,21.41,757.57,D,6 years,OTHER,26180.91,Fully Paid,home_improvement,22.19,4,792,647,6,36413,94.83,19,18
+2075,36 months,12.41,171.72,G,10+ years,RENT,88539.19,Charged Off,credit_card,15.2,2,791,679,1,22006,31.53,40,22
+36401,36 months,5.49,301.69,D,9 years,MORTGAGE,50827.13,Charged Off,credit_card,29.91,0,831,646,0,29070,9.35,13,21
+18528,36 months,5.92,217.05,G,4 years,OTHER,175506.57,Fully Paid,home_improvement,10.52,0,683,651,5,19503,74.56,20,14
+29285,60 months,16.49,598.21,G,7 years,OWN,181158.36,Charged Off,home_improvement,0.42,9,651,833,3,46798,2.0,12,19
+5658,36 months,19.69,993.0,C,7 years,RENT,98434.64,Default,credit_card,22.54,3,800,708,9,22420,43.68,27,49
+10825,60 months,13.37,449.62,E,8 years,OWN,133303.97,Charged Off,small_business,22.23,9,725,723,5,37362,68.98,5,33
+39671,36 months,5.62,641.52,C,< 1 year,OWN,132513.55,Fully Paid,home_improvement,9.43,0,764,797,8,43907,26.38,15,46
+25842,36 months,16.94,814.03,E,10+ years,OWN,76591.88,Default,credit_card,8.88,5,630,616,1,725,56.22,36,42
+21839,36 months,11.0,349.84,C,10+ years,RENT,98204.76,Default,credit_card,4.7,8,706,749,1,7977,88.74,44,6
+38373,36 months,22.25,625.7,E,9 years,RENT,194639.09,Charged Off,major_purchase,5.28,4,805,600,1,13693,17.58,20,4
+4680,36 months,5.55,418.33,C,8 years,OTHER,190368.07,Default,small_business,13.41,7,782,667,8,36990,95.49,44,27
+2998,60 months,13.04,979.86,E,6 years,OTHER,39054.55,Fully Paid,credit_card,8.05,5,815,776,0,24393,99.63,16,4
+22886,36 months,14.26,295.19,G,9 years,RENT,23864.79,Charged Off,home_improvement,0.42,0,718,629,0,3317,11.53,34,4
+8072,60 months,17.97,857.06,C,5 years,OTHER,55296.99,Charged Off,credit_card,3.45,1,764,671,1,12750,51.76,27,35
+20309,60 months,7.04,901.3,B,2 years,MORTGAGE,165791.07,Charged Off,debt_consolidation,4.07,8,613,840,1,23994,16.54,9,14
+9728,60 months,11.31,529.59,E,10+ years,OWN,21362.91,Fully Paid,major_purchase,8.3,8,782,716,7,5059,53.76,45,34
+3249,36 months,8.06,87.84,F,10+ years,RENT,80518.24,Fully Paid,major_purchase,4.67,1,660,820,1,1704,44.94,27,20
+6725,60 months,10.77,635.82,D,< 1 year,OTHER,148627.63,Default,debt_consolidation,8.88,9,834,702,6,30536,83.74,22,27
+29260,60 months,19.27,236.17,G,2 years,OWN,190460.71,Fully Paid,small_business,11.58,9,768,829,2,33016,94.3,44,47
+4379,36 months,7.18,952.43,G,10+ years,OTHER,138291.65,Charged Off,major_purchase,7.57,7,765,676,0,15336,68.5,6,42
+27148,36 months,11.27,953.27,F,5 years,RENT,144825.56,Fully Paid,home_improvement,13.37,4,809,823,2,34842,80.74,46,24
+7352,36 months,10.97,844.62,F,5 years,MORTGAGE,144891.45,Fully Paid,home_improvement,2.63,2,719,790,5,11567,49.2,20,42
+9632,36 months,12.34,604.62,B,3 years,OTHER,90785.28,Fully Paid,home_improvement,21.42,7,803,689,6,33725,16.48,16,17
+29022,36 months,11.62,78.14,G,10+ years,OTHER,131987.29,Default,major_purchase,1.85,2,759,775,4,15220,2.4,37,17
+10375,60 months,16.81,595.1,C,8 years,OTHER,176122.85,Fully Paid,credit_card,17.68,3,672,613,5,4307,40.19,6,45
+36075,36 months,19.7,293.7,F,10+ years,OTHER,114538.58,Charged Off,debt_consolidation,4.68,0,632,773,6,1390,76.74,6,33
